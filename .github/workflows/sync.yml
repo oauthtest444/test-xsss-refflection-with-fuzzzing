@@ -24,7 +24,7 @@ jobs:
       - name: Process Task
         run: |
           if [ ! -s data/list.txt ]; then
-            echo "No targets left in list.txt"
+            echo "No targets left."
             exit 0
           fi
 
@@ -34,8 +34,8 @@ jobs:
           DOMAIN=$(echo "$TARGET" | sed -E 's|https?://([^/]+).*|\1|')
           sed -i '1d' data/list.txt
 
-          echo "Processing: $TARGET"
-          echo "Domain folder: data/$DOMAIN"
+          echo "🔄 Processing: $TARGET"
+          echo "📁 Domain: data/$DOMAIN"
 
           mkdir -p "data/$DOMAIN"
 
@@ -48,70 +48,60 @@ jobs:
           if [ -s q-urls.txt ]; then
             python tools/dedup.py -f q-urls.txt -o final-urls.txt
           else
-            echo "No parameterized URLs found for $DOMAIN"
+            echo "No parameterized URLs found."
             git config --global user.name "system"
             git config --global user.email "system@noreply.github.com"
             git add data/list.txt
             git commit -m "chore: no params - $DOMAIN" -q || true
-            git push origin main -q
+            git push origin main -q || true
             exit 0
           fi
 
-          # Extract paths & parameters
+          # Run Path & Parameter Extractor
           if [ -s final-urls.txt ]; then
             python tools/param_path_extractor.py -l final-urls.txt -cp data/params.txt
           fi
 
-          # Move files to domain folder
-          mv usefull-path-urls.txt "data/$DOMAIN/usefull-path-urls.txt" 2>/dev/null || true
-          mv fuzz-params-list.txt "data/$DOMAIN/fuzz-params-list.txt" 2>/dev/null || true
-          mv final-urls.txt "data/$DOMAIN/final-urls.txt" 2>/dev/null || true
-          mv total-uniq-params.txt "data/$DOMAIN/" 2>/dev/null || true
-          mv all-marge-uniq-params.txt "data/$DOMAIN/" 2>/dev/null || true
+          # === Move all important files to domain folder ===
+          mv -f usefull-path-urls.txt "data/$DOMAIN/usefull-path-urls.txt" 2>/dev/null || true
+          mv -f fuzz-params-list.txt "data/$DOMAIN/fuzz-params-list.txt" 2>/dev/null || true
+          mv -f final-urls.txt "data/$DOMAIN/final-urls.txt" 2>/dev/null || true
+          mv -f total-uniq-params.txt "data/$DOMAIN/" 2>/dev/null || true
+          mv -f all-marge-uniq-params.txt "data/$DOMAIN/" 2>/dev/null || true
+          mv -f all-params.txt "data/$DOMAIN/" 2>/dev/null || true
 
-          # === Split usefull-path-urls.txt into smaller chunks ===
+          # Split for time limit
           if [ -s "data/$DOMAIN/usefull-path-urls.txt" ] && [ -s "data/$DOMAIN/fuzz-params-list.txt" ]; then
             TOTAL_URLS=$(wc -l < "data/$DOMAIN/usefull-path-urls.txt")
             TOTAL_CHUNKS=$(wc -l < "data/$DOMAIN/fuzz-params-list.txt")
-
             MAX_REQUESTS=14000
             URLS_PER_FILE=$(( MAX_REQUESTS / TOTAL_CHUNKS ))
             [ $URLS_PER_FILE -lt 1 ] && URLS_PER_FILE=1
 
-            TOTAL_FILES=$(( (TOTAL_URLS + URLS_PER_FILE - 1) / URLS_PER_FILE ))
-
-            echo "Splitting $TOTAL_URLS URLs into $TOTAL_FILES files (≈$URLS_PER_FILE URLs per file)"
-
             split -l $URLS_PER_FILE "data/$DOMAIN/usefull-path-urls.txt" "data/$DOMAIN/usefull-path-urls-"
-            
             i=1
             for f in data/$DOMAIN/usefull-path-urls-*; do
-              [ -f "$f" ] && mv "$f" "data/$DOMAIN/usefull-path-urls-${i}.txt" && i=$((i+1))
+              [ -f "$f" ] && mv "$f" "data/$DOMAIN/usefull-path-urls-${i}.txt" && ((i++))
             done
           fi
 
-          # === Run XSS Checker on next pending chunk ===
+          # Run XSS Checker on next chunk
           NEXT_CHUNK=$(ls data/$DOMAIN/usefull-path-urls-[0-9]*.txt 2>/dev/null | sort -V | head -n 1)
-
           if [ -n "$NEXT_CHUNK" ]; then
-            echo "Scanning pending chunk: $(basename $NEXT_CHUNK)"
             python tools/xss_reflect_checker.py -l "$NEXT_CHUNK" -p "data/$DOMAIN/fuzz-params-list.txt" -o "data/$DOMAIN/vulnerable.txt"
-            rm -f "$NEXT_CHUNK"   # Delete after processing
-          else
-            echo "No pending chunks. Running full scan as fallback."
-            if [ -s "data/$DOMAIN/usefull-path-urls.txt" ]; then
-              python tools/xss_reflect_checker.py -l "data/$DOMAIN/usefull-path-urls.txt" -p "data/$DOMAIN/fuzz-params-list.txt"
-            fi
+            rm -f "$NEXT_CHUNK"
           fi
 
-          # === Final Commit ===
+          # === Commit ALL changes (important!) ===
           git config --global user.name "system"
           git config --global user.email "system@noreply.github.com"
-          git add data/list.txt "data/$DOMAIN/"
+          git add data/list.txt "data/$DOMAIN/" 
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: processed $DOMAIN" -q
-            git push origin main -q
+            git commit -m "chore: processed $DOMAIN" 
+            git push origin main
+          else
+            echo "No changes to commit."
           fi
 
-          echo "✅ Completed processing for $DOMAIN"
+          echo "✅ Completed for $DOMAIN"
