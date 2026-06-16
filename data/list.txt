@@ -1,4 +1,1 @@
-gazeta.ru
-ptsecurity.com
-youla.io
-youla.ru
+api-shein.shein.com
