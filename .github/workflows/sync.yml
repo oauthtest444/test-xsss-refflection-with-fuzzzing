@@ -19,8 +19,8 @@ jobs:
       - name: Setup Tools
         run: |
           chmod +x tools/dedup.py
-          chmod +x tools/reflect.sh
-          chmod +x tools/reflect2.sh
+          chmod +x tools/param_path_extractor.py
+          chmod +x tools/xss_reflect_checker.py
 
       - name: Process Task
         run: |
@@ -58,10 +58,18 @@ jobs:
             exit 0
           fi
 
-          # === Run XSS Reflection Tools ===
+          # === Run path_extractor Tools ===
           if [ -s final-urls.txt ]; then
-            ./tools/reflect.sh -l final-urls.txt -o results.txt
+            python tools/param_path_extractor.py -l final-urls.txt -cp data/params.txt
           fi
+
+          # === Run XSS Reflection Tools ===
+          if [ -s usefull-path-urls-1.txt ]; then
+            python tools/xss_reflect_checker.py -l usefull-path-urls-1.txt -p fuzz-params-list.txt
+
+          fi
+
+          
 
           # === Commit updated target list ===
           git config --global user.name "system"
