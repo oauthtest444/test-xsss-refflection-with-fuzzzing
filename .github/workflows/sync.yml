@@ -23,8 +23,10 @@ jobs:
 
       - name: Process Task
         run: |
+          echo "=== Starting Process ==="
+
           if [ ! -s data/list.txt ]; then
-            echo "No targets left."
+            echo "No targets left in data/list.txt"
             exit 0
           fi
 
@@ -35,9 +37,13 @@ jobs:
           sed -i '1d' data/list.txt
 
           echo "🔄 Processing: $TARGET"
-          echo "📁 Domain: data/$DOMAIN"
+          echo "📁 Domain folder: data/$DOMAIN"
 
           mkdir -p "data/$DOMAIN"
+
+          # Debug: Show current structure
+          echo "=== Before processing ls data/ ==="
+          ls -la data/
 
           # Fetch Wayback URLs
           wget -qO urls.txt "https://web.archive.org/cdx/search/cdx?url=${TARGET}&matchType=domain&fl=original&collapse=urlkey&output=text&filter=statuscode:200" || true
@@ -48,12 +54,12 @@ jobs:
           if [ -s q-urls.txt ]; then
             python tools/dedup.py -f q-urls.txt -o final-urls.txt
           else
-            echo "No parameterized URLs found."
+            echo "No parameterized URLs found for $DOMAIN"
             git config --global user.name "system"
             git config --global user.email "system@noreply.github.com"
             git add data/list.txt
-            git commit -m "chore: no params - $DOMAIN" -q || true
-            git push origin main -q || true
+            git commit -m "chore: no params - $DOMAIN" || true
+            git push origin main || true
             exit 0
           fi
 
@@ -62,7 +68,8 @@ jobs:
             python tools/param_path_extractor.py -l final-urls.txt -cp data/params.txt
           fi
 
-          # === Move all important files to domain folder ===
+          # Move files to domain folder
+          echo "Moving files to data/$DOMAIN/"
           mv -f usefull-path-urls.txt "data/$DOMAIN/usefull-path-urls.txt" 2>/dev/null || true
           mv -f fuzz-params-list.txt "data/$DOMAIN/fuzz-params-list.txt" 2>/dev/null || true
           mv -f final-urls.txt "data/$DOMAIN/final-urls.txt" 2>/dev/null || true
@@ -70,7 +77,11 @@ jobs:
           mv -f all-marge-uniq-params.txt "data/$DOMAIN/" 2>/dev/null || true
           mv -f all-params.txt "data/$DOMAIN/" 2>/dev/null || true
 
-          # Split for time limit
+          # Debug: Show after moving
+          echo "=== After moving files ==="
+          ls -la "data/$DOMAIN/"
+
+          # Split usefull-path-urls.txt
           if [ -s "data/$DOMAIN/usefull-path-urls.txt" ] && [ -s "data/$DOMAIN/fuzz-params-list.txt" ]; then
             TOTAL_URLS=$(wc -l < "data/$DOMAIN/usefull-path-urls.txt")
             TOTAL_CHUNKS=$(wc -l < "data/$DOMAIN/fuzz-params-list.txt")
@@ -78,30 +89,43 @@ jobs:
             URLS_PER_FILE=$(( MAX_REQUESTS / TOTAL_CHUNKS ))
             [ $URLS_PER_FILE -lt 1 ] && URLS_PER_FILE=1
 
+            echo "Splitting $TOTAL_URLS URLs into chunks (~$URLS_PER_FILE per file)"
+
             split -l $URLS_PER_FILE "data/$DOMAIN/usefull-path-urls.txt" "data/$DOMAIN/usefull-path-urls-"
+            
             i=1
             for f in data/$DOMAIN/usefull-path-urls-*; do
-              [ -f "$f" ] && mv "$f" "data/$DOMAIN/usefull-path-urls-${i}.txt" && ((i++))
+              if [ -f "$f" ]; then
+                mv "$f" "data/$DOMAIN/usefull-path-urls-${i}.txt"
+                i=$((i+1))
+              fi
             done
           fi
 
-          # Run XSS Checker on next chunk
+          # Run XSS Checker
           NEXT_CHUNK=$(ls data/$DOMAIN/usefull-path-urls-[0-9]*.txt 2>/dev/null | sort -V | head -n 1)
           if [ -n "$NEXT_CHUNK" ]; then
+            echo "Scanning: $(basename $NEXT_CHUNK)"
             python tools/xss_reflect_checker.py -l "$NEXT_CHUNK" -p "data/$DOMAIN/fuzz-params-list.txt" -o "data/$DOMAIN/vulnerable.txt"
             rm -f "$NEXT_CHUNK"
           fi
 
-          # === Commit ALL changes (important!) ===
+          # Debug before commit
+          echo "=== Before Git Commit ==="
+          ls -la data/
+          ls -la "data/$DOMAIN/" || true
+
+          # Commit changes
           git config --global user.name "system"
           git config --global user.email "system@noreply.github.com"
           git add data/list.txt "data/$DOMAIN/" 
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: processed $DOMAIN" 
+            echo "Committing changes..."
+            git commit -m "chore: processed $DOMAIN"
             git push origin main
           else
             echo "No changes to commit."
           fi
 
-          echo "✅ Completed for $DOMAIN"
+          echo "✅ Completed processing for $DOMAIN"
