@@ -1,0 +1,7 @@
+https://customervoice.microsoft.com/formapi/api/CVProxyRuntime/sharedservice/gettenantmigrationstatus
+https://customervoice.microsoft.com/formapi/api/embed
+https://customervoice.microsoft.com/formapi/api/privacy
+https://customervoice.microsoft.com/Pages/ResponsePage.aspx
+https://customervoice.microsoft.com/pages/responsepage.aspx
+https://tip.customervoice.microsoft.com/Pages/PrefetchPage.aspx
+https://tip.customervoice.microsoft.com/Pages/SilentSignInComplete.aspx
