@@ -1,0 +1,7 @@
+https://asana.com/-/oauth_authorize
+https://asana.com/-/upgrade
+https://asana.com/404
+https://asana.com/
+http://asana.com/
+http://www.asana.com/
+https://asana.com/_next/image
