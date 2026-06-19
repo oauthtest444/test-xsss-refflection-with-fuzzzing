@@ -1,0 +1,9 @@
+https://xxid.dev.atl-paas.net/
+https://atl-preferences-center.prod.atl-paas.net/rest/preferences/consentsAndSubscriptions
+https://atl-preferences-center.prod.atl-paas.net/rest/preferences/translations
+https://iframely.prod.atl-paas.net/api/iframe
+https://shortstack.prod.atl-paas.net/make_shortstack/037b22efbb274bc889f40ce3b9576134
+https://community-ui.prod-east.frontend.public.atl-paas.net/catalog
+https://community-ui.prod-east.frontend.public.atl-paas.net/learning/catalog
+https://lp-cc-embed.prod-east.frontend.public.atl-paas.net/
+https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:8bc3f901-4bae-4080-8cdf-6bf1c5aa659d/faba8cdd-2cc7-421d-889f-0f4fcfd329f5/128
