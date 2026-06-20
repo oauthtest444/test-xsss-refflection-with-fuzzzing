@@ -1,0 +1,12 @@
+https://www.akhwien.at/
+http://www.akhwien.at:80/ambulanz/ambdetail.asp
+http://www.akhwien.at:80/ambulanz/ambklinik.asp
+https://www.akhwien.at/default.aspx
+http://www.akhwien.at:80/default.aspx
+https://akhwien.at/default.aspx
+http://www.akhwien.at/default.aspx
+https://www.akhwien.at/loadaspx/logging.aspx
+https://arex.akhwien.at/Account/Login/
+https://www.bauprojekte.akhwien.at/wp-admin/admin-ajax.php
+https://webmail.akhwien.at/owa/auth/logon.aspx
+http://webmail.akhwien.at/owa/redir.aspx
