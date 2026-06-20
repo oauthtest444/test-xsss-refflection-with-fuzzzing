@@ -1,0 +1,10 @@
+https://n101.network-auth.com/splash/
+https://n1035.network-auth.com/account/confirm_splash_access
+https://n107.network-auth.com/splash/grant
+http://n109.network-auth.com/splash/sponsor_authorization_done
+https://n11.network-auth.com/splash/
+https://n165.network-auth.com/splash/grant
+https://n219.network-auth.com/splash/fb_auth
+https://n263.network-auth.com/splash/grant
+https://n33.network-auth.com/splash/auth
+https://n470.network-auth.com/splash/connected

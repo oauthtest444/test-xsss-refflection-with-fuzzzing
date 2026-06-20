@@ -1,0 +1,11 @@
+https://apac.network-auth.com/splash/-rTB6b5d.0.249/?client_mac=74:D8:3E:36:1B:95&vap=0&real_ip=10.167.38.71&a=5b384ce32d8cdef02bc3a139d4cac0a22bb029e8&b=1357277&continue_url=http://fiveslot777.com/archives/58309828.html&auth_version=5&key=9d149aed3b164ad91dfa7a3e0361dc8a5d3f74b3&client_ip=10.167.38.71&acl_ver=P12640553V2&mac=E4:55:A8:AD:7C:30
+https://n101.network-auth.com/splash/?vlan=10&blocked_server=23.202.90.208:80
+https://n1035.network-auth.com/account/confirm_splash_access?tok=MMIWWefIasDqShMOj7Im86okDZdEjoGWlZoF_DAYc-4rjJL7G_WoSHVk2XcYAMYJq_PuuVT3_l_qvrLXXQXOJ5vdsjNsHMGWwz3g_W5l2Z250bp6mvf6PO1bjOhG7QPudV6iqteWmr4Q2x6NlgLCCfMPqimMUhiLW745eauDaFzwbL8oA3QgbIEA
+https://n107.network-auth.com/splash/grant?duration=28800
+http://n109.network-auth.com/splash/sponsor_authorization_done?msg=Drew Matheny has already been approved
+https://n11.network-auth.com/splash/?node_ip=6.50.73.14
+https://n165.network-auth.com/splash/grant?user_continue_url=https://www.bostonmarket.com
+https://n219.network-auth.com/splash/fb_auth?ref_id=3a&token=2377911805862545&prevcheckin=3
+https://n263.network-auth.com/splash/grant?agreebranch=
+https://n33.network-auth.com/splash/auth?email=notkane619@hotmail.com
+https://n470.network-auth.com/splash/connected?hide_terms=true
