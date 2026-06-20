@@ -1,0 +1,8 @@
+https://portalpersonas.bancochile.auth0app.com/login
+https://407etr.cantoll.auth0app.com/u/email-verification
+https://manage.dnv-dev.auth0app.com/invite
+https://native-prod.native-instruments.auth0app.com/login
+https://manage.oreilly.auth0app.com/docs/search/token
+https://manage.oreilly.auth0app.com/docs/search
+https://manage.oreilly-dev.auth0app.com/docs/authenticate/protocols/saml/saml-identity-provider-configuration-settings
+https://signin-us.ukg-prod.auth0app.com/u/reset-verify
