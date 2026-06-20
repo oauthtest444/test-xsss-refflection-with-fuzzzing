@@ -1,4 +1,3 @@
-cash.app
 cashstaging.app
 chimepayments.com
 chime.com
@@ -10,7 +9,6 @@ saltlabs.com
 meraki.com
 ikarem.io
 network-auth.com
-gv.at
 gesundheitsverbund.at
 wienkav.at
 akhwien.at
