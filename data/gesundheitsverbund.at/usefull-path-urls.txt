@@ -1,0 +1,10 @@
+http://gesundheitsverbund.at/
+https://gesundheitsverbund.at/
+https://gesundheitsverbund.at/aktuelles-und-veranstaltungen/
+https://gesundheitsverbund.at/jobs/
+https://gesundheitsverbund.at/suche/
+https://gesundheitsverbund.at/wp-json/solr/typeahead
+https://ausbildung.gesundheitsverbund.at/
+https://bauprojekte.gesundheitsverbund.at/wp-admin/admin-ajax.php
+https://bp.gesundheitsverbund.at/bildungsprogramm/Kurse/Details
+https://klinik-floridsdorf.gesundheitsverbund.at/suche/
