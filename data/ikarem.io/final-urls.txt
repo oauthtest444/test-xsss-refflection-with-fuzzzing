@@ -1,0 +1,2 @@
+https://account.devel.ikarem.io/login/dashboard_login?go=
+https://n2.test.ikarem.io/login/dashboard_login?sh=2
