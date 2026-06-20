@@ -1,4 +1,3 @@
-bolt.eu
 bugcrowd.net
 canva-apps.com
 canva.tech
