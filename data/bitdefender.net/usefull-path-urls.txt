@@ -1,0 +1,11 @@
+http://www.bitdefender.net:80/download/download.php
+http://bitdefender.net:80/virusi/virusi_descrieri.php
+https://amazon.bitdefender.net/amazon/register.php
+https://catch-nimbus.bitdefender.net/api/18/store/
+https://connect.bitdefender.net/login
+https://connect.bitdefender.net/saferpass/groups
+https://connect.bitdefender.net/saferpass/login
+https://nimbus.bitdefender.net/api/computers_products_remove_computers
+https://nimbus.bitdefender.net/api/remote_add_task
+http://nimbus.bitdefender.net/bdnc/config
+https://nimbus.bitdefender.net/push/conf

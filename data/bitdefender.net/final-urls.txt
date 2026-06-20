@@ -1,0 +1,14 @@
+http://www.bitdefender.net:80/download/download.php?file=antibenjamin.exe
+http://bitdefender.net:80/virusi/virusi_descrieri.php?virus_id=14
+https://amazon.bitdefender.net/amazon/register.php?b.defaultValue=a.defaultValue:c===
+https://amazon.bitdefender.net/amazon/register.php?b.outerHTML=a.outerHTML:c!==
+https://amazon.bitdefender.net/amazon/register.php?b.selected=a.defaultSelected:c===
+https://amazon.bitdefender.net/amazon/register.php?this.style.display=
+https://catch-nimbus.bitdefender.net/api/18/store/?sentry_version=7&sentry_client=raven-js/3.27.2&sentry_key=3e1ce2ad6e9e40459925f2bc45c5e3e8
+https://connect.bitdefender.net/login?partner_id=com.bitdefender&application_id=com.bitdefender.box&device_id=web
+https://connect.bitdefender.net/saferpass/groups?status=ok&account=active&remember=false&usage=login&state=db04c6a6-5b14-43ce-8888-630138129278&lang=en_GB&challenge=eM7nhXNusaiKq4ubVOksHoBnOsSU90ZUOVvCIqwdugI&redirect_id=5d9d3d8a-997b-4068-87c3-c5496ae2fa90&redirect_url=https://api.prod.bd.bitdefenderpassmanager.net/sso/callback
+https://connect.bitdefender.net/saferpass/login?user_token=eyJraWQiOiJ0ZTBNVmExdSIsImFsZyI6IkVTMjU2In0.eyJzaWQiOiI3OGEyMTRhODA1MDE0NzQ4OTE0OWM0NTQ5MjhiODNkMjM2YTU0OGE5IiwiaXNzIjoiaHR0cHM6Ly9hcGkubG9naW4uYml0ZGVmZW5kZXIuY29tIiwic3ViIjoiNThmNjM3Y2ItMzhhMC00ZDBmLWEyYzItMGE3ODYyMjk1ZTEyIiwiYXVkIjoiYXBpLnByb2QuYmQuYml0ZGVmZW5kZXJwYXNzbWFuYWdlci5uZXQiLCJleHAiOjE3MTcwODcwODAsIm5iZiI6MTcxNzA4Njc4MCwiaWF0IjoxNzE3MDg2NzgwLCJwaWQiOiJjb20uYml0ZGVmZW5kZXIiLCJqdGkiOiJmYTgwZWE3My00MTRhLTQxY2ItODNhMi0xNDEzN2VhYWFiNjEifQ.GJ18PLFLFilFC04XpGuR4d5P180izmojEZgbDOvnDpq39chRvZKVFWzMrdBKpbHLLig5_euZbUK-AeiUo6x4qg
+https://nimbus.bitdefender.net/api/computers_products_remove_computers?computer_id=
+https://nimbus.bitdefender.net/api/remote_add_task?cuid=
+http://nimbus.bitdefender.net/bdnc/config?adobe_mc=MCMID=22598233890170936190566755597339766039|MCORGID=0E920C0F53DA9E9B0A490D45%40AdobeOrg|TS=1559892197
+https://nimbus.bitdefender.net/push/conf?callback=jQuery17105187457133058985_1381066522775
