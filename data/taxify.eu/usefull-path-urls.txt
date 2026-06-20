@@ -1,0 +1,17 @@
+http://taxify.eu/2017/01/data_analyst/
+http://taxify.eu:80/wordpress/wp-login.php
+http://taxify.eu:80/wordpress/xmlrpc.php
+http://taxify.eu:80/wp-login.php
+https://invoice.taxify.eu/
+https://node.taxify.eu/driver-auth/driverPortal/authenticateWithMagicLink/
+https://node.taxify.eu/driverx-experiments/getDriverVisitorExperiments
+https://node.taxify.eu/fleet-driver-portal/driverPortal/isPasswordResetTokenValid/
+https://node.taxify.eu/fleet-registration/driverPortal/getDriverRegistrationFormData/
+https://node.taxify.eu/fleet-registration/driverPortal/getDriverRegistrationLog/
+https://partners.taxify.eu/
+https://pki.taxify.eu/ejbca/publicweb/webdist/certdist
+https://support.taxify.eu/access/unauthenticated
+https://support.taxify.eu/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1
+https://support.taxify.eu/hc/ar/articles/360009457274-%D8%B1%D9%8F%D8%B3%D9%88%D9%85-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9
+https://support.taxify.eu/hc/az/articles/115002917734-%C3%96d%C9%99ni%C5%9F-Metodunun-Se%C3%A7ilm%C9%99si-v%C9%99-ya-%C6%8Flav%C9%99-edilm%C9%99si
+https://support.taxify.eu/hc/en-gb/signin
