@@ -1,0 +1,3 @@
+http://blog.emakina.at/xmlrpc.php
+http://hoegl-shop.devweb13.emakina.at:80/de-at
+https://fw.emakina.at/connect/Access

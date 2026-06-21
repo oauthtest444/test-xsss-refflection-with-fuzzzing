@@ -1,0 +1,4 @@
+http://blog.emakina.at/xmlrpc.php?rsd=
+http://hoegl-shop.devweb13.emakina.at:80/de-at?req-action=login&returnurl=/en-us/user/forgot-password
+http://colorcopy.devweblin7.emakina.at/wp-json/oembed/1.0/embed?url=http://colorcopy.devweblin7.emakina.at/&format=xml
+https://fw.emakina.at/connect/Access?AgentCode=000&cti=
