@@ -1,0 +1,17 @@
+http://www.emakina.ch:80/activities/index.cfm?lang=EN
+http://www.emakina.ch:80/company/vacancydetails.cfm?ID=109
+http://www.emakina.ch:80/contact/contact.cfm?from=press&recipient=5
+http://www.emakina.ch:80/jobapplication/apply.cfm?idjob=100
+http://www.emakina.ch/jobapplication/apply.cfm?idJob=149
+http://www.emakina.ch/work/projects/projectDetail.cfm?projectId=106
+http://www.emakina.ch:80/work/projects/projectDetail.cfm?projectid=148
+http://www.emakina.ch/work/projects/projectsoverview.cfm?companyid=
+http://www.emakina.ch/work/projects/projectsoverview.cfm?competencecenters=6
+http://www.emakina.ch/work/projects/projectsoverview.cfm?coreactivities=1
+http://www.emakina.ch/work/projects/projectsoverview.cfm?markets=1
+http://www.emakina.ch/work/projects/projectsoverview.cfm?media=1
+http://www.emakina.ch/work/projects/projectsoverview.cfm?services=10
+https://blog.emakina.ch/wp-json/oembed/1.0/embed?url=https://blog.emakina.ch/2018/07/26/more-than-digital-day-2018/&format=xml
+http://blog.emakina.ch/xmlrpc.php?rsd=
+http://devazure.emakina.ch/home/random23ewdweasd23werhasdf?123=
+http://uat.oris.devazure.emakina.ch/error/404?aspxerrorpath=/sitemap/xml

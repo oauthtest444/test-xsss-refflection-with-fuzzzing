@@ -1,0 +1,11 @@
+http://www.emakina.ch:80/activities/index.cfm
+http://www.emakina.ch:80/company/vacancydetails.cfm
+http://www.emakina.ch:80/contact/contact.cfm
+http://www.emakina.ch:80/jobapplication/apply.cfm
+http://www.emakina.ch/jobapplication/apply.cfm
+http://www.emakina.ch/work/projects/projectDetail.cfm
+http://www.emakina.ch:80/work/projects/projectDetail.cfm
+http://www.emakina.ch/work/projects/projectsoverview.cfm
+http://blog.emakina.ch/xmlrpc.php
+http://devazure.emakina.ch/home/random23ewdweasd23werhasdf
+http://uat.oris.devazure.emakina.ch/error/404
