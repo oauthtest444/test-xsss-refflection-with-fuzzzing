@@ -1,0 +1,8 @@
+https://easip-client.ccp.xcal.tv/eas/api/alert/active/fipscode/034005
+https://fedsp.ccp.xcal.tv/auth
+https://jenkins.ccp.xcal.tv/jenkins/login/
+https://xfinityoncampus.ccp.xcal.tv/api/login
+https://xocsp.ccp.xcal.tv:8443/openam/spssoinit
+http://xcal.cds.xcal.tv:80/
+https://login-stg.ventos.eu-1.xcal.tv/app/UserHome
+https://rdkgerrithub.stb.r53.xcal.tv/projects/
