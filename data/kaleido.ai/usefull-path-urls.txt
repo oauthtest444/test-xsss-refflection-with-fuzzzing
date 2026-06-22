@@ -1,0 +1,4 @@
+https://www.kaleido.ai/
+https://accounts.kaleido.ai/cookies
+https://accounts.kaleido.ai/users/confirmation
+https://accounts.kaleido.ai/users/password/edit

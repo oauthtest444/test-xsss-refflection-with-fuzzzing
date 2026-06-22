@@ -1,0 +1,1 @@
+?ref=testtt&subject=testtt&locale=testtt&confirmation_token=testtt&reset_password_token=testtt
