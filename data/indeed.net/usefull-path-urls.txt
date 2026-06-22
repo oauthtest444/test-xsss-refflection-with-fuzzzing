@@ -1,0 +1,11 @@
+http://ar.iadprod.indeed.net/
+http://ar.iadprod.indeed.net/reclutamiento
+http://ar.iadprod.indeed.net/recommendedjobs
+http://au.iadprod.indeed.net:80/advanced_search
+http://au.iadprod.indeed.net:80/alert
+http://au.iadprod.indeed.net:80/rpc/log
+http://au.iadprod.indeed.net:80/tellafriend
+http://au.iadprod.indeed.net:80/viewjob
+http://pt.lonprod.indeed.net:80/jobs
+http://ru.lonprod.indeed.net:80/browsejobs/cities
+http://jp.ordprod.indeed.net/rpc/log
