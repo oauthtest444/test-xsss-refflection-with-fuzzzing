@@ -1,0 +1,8 @@
+https://rest.api.eu-central-1.production.jet-external.com/payment/ie/partners/10055/options
+https://rest.api.eu-west-1.production.jet-external.com/applications/knowledge-centre/home
+https://rest.api.eu-west-1.production.jet-external.com/payment/ch/payments/2131359b6310496f8e9da05a5e4e604d/status
+https://rest.api.eu-west-1.production.jet-external.com/payment/de/payments/0aedf93330bc478797deafa43774a206/status
+https://rest.api.eu-west-1.production.jet-external.com/payment/de/payments/465369992f4743529e60d17c4df245de/status
+https://rest.api.eu-west-1.production.jet-external.com/payment/de/payments/6a1d6d695e564b89b08749f0d421543f/status
+https://rest.api.eu-west-1.production.jet-external.com/payment/nl/payments/02370f7dd3c64b57aea01a0d745374e2/status
+https://rest.api.eu-west-1.production.jet-external.com/payment/pl/payments/9e29c38ea9ca4cb3b415cbdb8daf7c5e/status
