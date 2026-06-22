@@ -1,0 +1,17 @@
+https://aus.api.just-eat.io/applications/consumerhelpweb/customisation/au
+https://aus.api.just-eat.io/autocomplete/addresses/au/ChIJ-3hDObOEk2sRM-1qFKEELZE
+https://aus.api.just-eat.io/autocomplete/addresses/au
+https://aus.api.just-eat.io/consumeroffers/notifications/au
+https://aus.api.just-eat.io/geocode/au/reverse
+https://aus.api.just-eat.io/restaurant/au/1024190/menu/dynamic
+https://aus.api.just-eat.io/restaurant/au/11002034/menu/dynamic
+https://aus.api.just-eat.io/restaurants/au/11002034/reviews
+https://aus.api.just-eat.io/search/autocomplete/au
+https://i18n.api.just-eat.io/discovery/es/restaurants/enriched/bypostcode/15179
+https://i18n.api.just-eat.io/discovery/es/restaurants/enriched/bypostcode/28935
+https://i18n.api.just-eat.io/discovery/es/restaurants/enriched/byslug/28935-mostoles
+https://i18n.api.just-eat.io/discovery/es/restaurants/enriched
+https://i18n.api.just-eat.io/restaurants/bypostcode/CLONBULLOGE
+https://i18n.api.just-eat.io/search/restaurants/es
+https://uk.api.just-eat.io/_Incapsula_Resource
+https://uk.api.just-eat.io/restaurant/uk/120430/menu/dynamic
