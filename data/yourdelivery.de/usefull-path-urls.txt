@@ -1,0 +1,10 @@
+http://www.yourdelivery.de:80/
+http://www.yourdelivery.de:80/info/
+http://www.yourdelivery.de:80/lieferservice-essen/pizzeria-funghi
+http://www.yourdelivery.de:80/lieferservice/wp-content/plugins/multi-level-navigation-plugin/scripts/hoverIntent.js.php
+http://www.yourdelivery.de:80/lieferservice/xmlrpc.php
+http://log.yourdelivery.de/
+http://project.yourdelivery.de:80/
+http://project.yourdelivery.de:80/login.php
+http://tickets.yourdelivery.de:80/login
+http://track.yourdelivery.de/piwik/piwik.php
