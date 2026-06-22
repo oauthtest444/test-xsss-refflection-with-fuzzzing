@@ -1,0 +1,3 @@
+http://api.justeat-int.com:80/_Incapsula_Resource
+https://api.justeat-int.com/images/en-IE/cuisine/American/banner
+https://api.justeat-int.com/images/en-IE/marketing/sitedown-christmas--wide/Tile
