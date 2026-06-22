@@ -1,0 +1,50 @@
+https://www.just-eat.com/?ref=hackernoon.com
+https://www.just-eat.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1004425656
+https://www.just-eat.com/_Incapsula_Resource?CWUDNSAI=26&xinfo=3-16687997-0 0CNN RT(1513748146515 28) q(0 -1 -1 35) r(0 -1) B12(4,315,0)&incident_id=499000650108088031-95420008547681299&edet=12&cinfo=04000000
+https://www.just-eat.com/_Incapsula_Resource?SWUDNSAI=28
+https://www.just-eat.com/_Incapsula_Resource?ES2LURCT=67&t=78&d=complete (s:0,c:216,r:295)
+https://www.just-eat.com/_Incapsula_Resource?SWKMTFSR=1&e=0.0018528994031707935
+http://www.just-eat.com/_Incapsula_Resource?SWHANEDL=3757507631027048097,13994321684753635682,6615310461651369540,516673
+https://www.just-eat.com/ccm/system/dialogs/marketplace/checkout?mpID=
+https://www.just-eat.com/ccm/system/dialogs/page/add_block?cID=
+https://www.just-eat.com/index.php/tools/required/captcha?nocache=1583837777
+http://just-eat.com:80/invoicing/login.asp?goTo=/invoicing/invoicestep.asp
+https://www.just-eat.com/news-and-media/press-releases/just-eat-uk-announces-10m-30-day-emergency-support-package-small-independent-restaurant-partners?dm_t=0,0,0,0,0
+http://just-eat.com:80/orderResturante.asp?zipcode=3500&Cardtype=2&mode1=delivery&id=778&mode=ordre&first=yes&closingtime=14
+https://www.just-eat.com/search?query=porta via&submit=Search
+http://just-eat.com:80/Showresturante3.asp?zip=1000&name=
+http://www.just-eat.com/wp-content/themes/justeat_2013/style.php?ver=2.0.4
+http://www.just-eat.com:80/wp-content/uploads/2012/03/?C=D;O=A
+http://www.just-eat.com:80/wp-json/oembed/1.0/embed?url=http://www.just-eat.com/&format=xml
+http://www.just-eat.com:80/xmlrpc.php?rsd=
+https://adfs.just-eat.com/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=http://www.workday.com
+https://adfs.just-eat.com/adfs/ls?version=1.0&action=signin&realm=urn:AppProxy:com&appRealm=10875648-66c6-e411-80df-0a51d305dab5&returnUrl=https://guard.just-eat.no/robots.txt&client-request-id=B1B629C7-AC5B-0001-A753-9BB25BACD301
+https://adfs.just-eat.com/adfs/ls/?SAMLRequest=hZLLbtswEEV/hZg99fIDFmE5cGMEMZCmaqxkkR1NjxsGFOlyKKf9+1KyXaQbd0eQ987cOcP5za/WsCN60s5WkCcZMLTK7bT9UcFzc8dncLOYk2xNcRDLLrzZJ/zZIQUWjZbE6aWCzlvhJGkSVrZIIiixWX59EEWSiYN3wSlngC2J0IfY6tZZ6lr0G/RHrfD56aGCtxAOJNL0vaOAMiTRYfTWy3hoU2Cr2FRbGYagF63c7SnpDfzkaIeb1FA03DmvcIhcQfAdAluvKlA55uVOTbmajBUfF6OCy5EseIaz0awst+NyPItKqiWRPmIFe2mo9xJ1uLYUpA0VFFle8mzK87LJpqLIxGSaTEb5K7D6POwXbU8Qr5HZnkQk7pum5vW3TQPs5bKMKIAzejF095+ZXy8sL6BhcRXrPP1c/++iH2PB9ap2RqvfbGmM+7j10YsXkBFtK8P1CP2N3vH9IBWHfqoYwAZgm7qv/72TRu81+v9tPl2cU/77ARd/AA==&RelayState=https://justeat.collibra.com/
+http://api.just-eat.com:80/MenuApi.svc?wsdl=wsdl0
+https://au-api.just-eat.com/images/en-AU/cuisine/Indian/banner?width=500&quality=50
+https://careers.just-eat.com/Book/Gatsby/ch/4?key=value
+https://careers.just-eat.com/opportunities?search=sales
+https://careers.just-eat.com/some/path?foo=bar&baz=xoxo
+https://careers.just-eat.com/v1/users?q=Archer
+https://careers.just-eat.com/v1/users?sortBy=firstName
+http://crm.just-eat.com:80/Login.asp?gotourl=http://handle.just-eat.ca/jeadmin/pages/autologin.aspx&returnurl=http://handle.just-eat.ca/JEAdmin/Pages/loginadm.aspx?hlmenu=restaurant&query=&mode=0
+http://pages.email.just-eat.com:80/?cuisine=all&refine=withdiscounts
+http://jam.just-eat.com:80/?loggedin=
+https://kitchen.just-eat.com/home/login?nextUrl=https://kitchen.just-eat.com/home/&error=NEED_LOGIN
+https://shop.just-eat.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=91667b73ef7ff9ed
+https://shop.just-eat.com/en-GB/bags?top=true&dealer=takeaway&sort=RelevantIe EN-GB
+https://shop.just-eat.com/en-GB/login?goto=/
+https://shop.just-eat.com/en-GB/pr?priceFrom=0.0&priceTo=189.91
+http://survey.just-eat.com:80/AccessDenied.aspx?Reason=10
+http://survey.just-eat.com:80/AccessDenied.aspx?SurveyID=0
+http://survey.just-eat.com:80/ErrorpageNoLogin.aspx?ErrMsg=Error occured on Survey List page: Object reference not set to an instance of an object.
+http://survey.just-eat.com:80/TakeSurvey.aspx?PageNumber=1
+http://survey.just-eat.com:80/UserReg.aspx?State=Register
+http://tech.just-eat.com/2015/06/29/deep-linking-in-android-the-easy-way/?replytocom=113846
+https://tech.just-eat.com/2016/11/10/unit-testing-front-end-javascript-with-ava-and-jsdom/?source=post_page---------------------------
+http://tech.just-eat.com/?custom-css=1&csblog=1&cscache=6&csrev=16
+https://tech.just-eat.com/_Incapsula_Resource?rpinfo=0&cts=+NiLCd01aDzEMkqE93qbaBnXlqM60rjbiyRjAHNdg3HseZ7zMnXEhR1Hua1PNy0b
+https://vault.just-eat.com/assetbank-justeat/servlet/file?contentDispositionFilename=fileLoc=NzExMw.png-size=-1x-1-par=false-pcs=false-ctf=true.jpg&signature=34506e395659415a52446f525755305431352b52344d6854322b7378616b36484c686c32384e724b747278776745734f45482f73506362662b7250554b325a512f5a694d333435556e51306b4f2f7667354b4b2f38696a31464545544269666758584649386630786a33513d&contentDisposition=inline&lastModified=2023-04-28T13:08:49.925Z&contentIdentifier=fileLoc=NzExMw.png-size=-1x-1-par=false-pcs=false-ctf=true.jpg&contentType=image/jpeg&contentStoreIdentifier=DIRECT_LINK_CACHE
+https://ventures.just-eat.com/?s={search_term_string}
+http://wiki.just-eat.com:8080/login.action?logout=true
+http://wiki.just-eat.com:8080/login.action?os_destination=/homepage.action
