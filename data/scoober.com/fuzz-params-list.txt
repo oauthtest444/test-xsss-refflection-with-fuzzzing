@@ -1,0 +1,1 @@
+??id=testtt&lang=testtt&ray=testtt&timezone=testtt&window.innerHeight=testtt&window.innerWidth=testtt

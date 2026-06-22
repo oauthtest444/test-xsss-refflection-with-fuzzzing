@@ -1,0 +1,4 @@
+http://www.scoober.com:80/?window.innerHeight=
+http://www.scoober.com:80/?window.innerWidth=
+https://tracker.beta.scoober.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=8bd70d2889f1238d
+https://tracker.scoober.com/0ca7b67d33d1fc7cf89b639b35fe89469b04cf50f79c212c7b8c096075f4516a?lang=de&timezone=Europe/Berlin

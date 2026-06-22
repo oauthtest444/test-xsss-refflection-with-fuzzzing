@@ -1,0 +1,3 @@
+http://www.scoober.com:80/
+https://tracker.beta.scoober.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1
+https://tracker.scoober.com/0ca7b67d33d1fc7cf89b639b35fe89469b04cf50f79c212c7b8c096075f4516a
