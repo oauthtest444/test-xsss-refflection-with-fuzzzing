@@ -1,0 +1,54 @@
+https://www.justeattakeaway.com/?a=Just Eat Takeaway.com
+https://www.justeattakeaway.com/?goal=0_d55cfa8d68-14746d12e0-115175669&mc_cid=14746d12e0&mc_eid=8a3ed99f42
+https://www.justeattakeaway.com/?ref=albertodebortoli.com
+https://www.justeattakeaway.com/?trk=organization_guest_main-feed-card-text
+https://www.justeattakeaway.com/archive/just-eatcom/?ufprt=888B046B9797CC02A3CA43F0AE8126058AC3BA722158C15E4A7DCBA22DED6BBB921DA94507D2A22803201B1FE11C66A28A204987D367FABA4ADDF122DDA79CEC8D4A9294B5B8BD18139DD5DD384C8549CFAF2D2F7A41DDD07E0CBEB5A0B4BD1D0067A466E5786CD0679CAFED9A1BDBFE14E911EF&code=2D0031007C0064006F0077006E006C006F00610064007C0032003100350039007C003200320031003500
+https://www.justeattakeaway.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8191968588432544
+https://www.justeattakeaway.com/css/evergreen/dist/default/GlobalBrandingIcons.ashx?type=eot
+https://www.justeattakeaway.com/feed/ContentAsset.svc/GetContentAssetList?LanguageId=1&assetType=&pageSize=-1&pageNumber=0&tagList=&includeTags=true&year=-1&excludeSelection=1
+https://www.justeattakeaway.com/feed/Event.svc/GetEventList?eventSelection=3&eventDateFilter=3&includeFinancialReports=true&includePresentations=true&includePressReleases=true&sortOperator=1
+https://www.justeattakeaway.com/feed/FinancialReport.svc/GetFinancialReportList?reportTypes=Annual Report
+https://www.justeattakeaway.com/feed/Lookup.svc/GetLookupList?callback=jQuery36106436128257887517_1739954889672&lookupType=indices
+https://www.justeattakeaway.com/feed/Presentation.svc/GetPresentationList?presentationDateFilter=3
+https://www.justeattakeaway.com/feed/PressRelease.svc/GetPressReleaseList?bodyType=1&pressReleaseDateFilter=3&categoryId=1cb807d2-208f-4bc3-9133-6a9ad45ac3b0
+https://www.justeattakeaway.com/feed/SECFiling.svc/GetEdgarFilingList?exchange=CIK&symbol=0000000000&formGroupIdList=&filingTypeList=10-K,10-K/A,10-Q&excludeNoDocuments=true&includeHtmlDocument=true
+https://www.justeattakeaway.com/newsroom/clippings/?locale=en-GB
+https://www.justeattakeaway.com/newsroom/de-DE/archive/press_releases/?country=DE&language=de&page=2&tags=news
+https://www.justeattakeaway.com/newsroom/de-DE/archive/press_releases/?month=1
+https://www.justeattakeaway.com/newsroom/en-WW/213423-just-eat-takeaway-com-q1-2022-trading-update?e=3193021
+https://www.justeattakeaway.com/newsroom/en-WW/events/?past=true
+https://www.justeattakeaway.com/Q4IdpLoginCallback.aspx?error=401
+https://brand.justeattakeaway.com/auth/?referer=/
+https://careers.justeattakeaway.com/bg/bg/search-results?keywords={search_term_string}
+https://careers.justeattakeaway.com/de/de/apply?jobSeqNo=TAKEGLOBALR046882DEDE
+https://careers.justeattakeaway.com/de/de/jointalentcommunity?applyType=JTC
+https://careers.justeattakeaway.com/global/en/apply?amp=&step=1&source=LinkedIn
+https://careers.justeattakeaway.com/global/en/apply?utm_term=&stepname=personalInformation
+https://careers.justeattakeaway.com/global/en/applythankyou?status=thankyou&jobTitle=Lead Data Scientist&jobId=R_045826&jobApplicationId=b62600dec3619000fd63e3aa555e0000
+https://careers.justeattakeaway.com/global/en/c/corporate-jobs?from=10&s=1
+https://careers.justeattakeaway.com/global/en/canada?rk=l-canada
+https://careers.justeattakeaway.com/global/en/job/R_016268/Kundenservice-Mitarbeiter-in?gclsrc=aw.ds&gclid=CjwKCAiAprGRBhBgEiwANJEY7KiVPD1FOnxoRf46icp-mI_-8kLVSSFDfOUsoxngARuyC0mYjvLthxoCAm0QAvD_BwE
+https://careers.justeattakeaway.com/global/en/job/R_027818/Technical-Product-Manager?gh_src=Chic Geek job board
+https://careers.justeattakeaway.com/global/en/job/TAKEGLOBALR040546ENGLOBAL/Remote-Office-Based-English-and-German-Customer-Advisor-Part-Time?jClickId=fc74f604-8137-4675-a8e5-9b62b47ed9f6
+https://careers.justeattakeaway.com/global/en/sales---germany?api_key=o6c74&begindate=puyw9&categoryid=b3gwd&csrf_token=dxf5q&list_type=orol0&p=vbyo9&tid=jl84m
+https://careers.justeattakeaway.com/global/en/search-results?location=
+https://careers.justeattakeaway.com/global/en/search-results?m=3
+https://careers.justeattakeaway.com/global/en/search-results?qcountry=Spain&qcity=Madrid
+https://careers.justeattakeaway.com/global/en/united-kingdom?hsLang=en
+https://click.connect.justeattakeaway.com/open.aspx?d=100158&bmt=0
+https://cloud.connect.justeattakeaway.com/goc-js-uk-v2?qs=6e34e2fd4eaa5f724e475b83ca0a00a3cfbc6f78d65934bad36089fa208d4df01f15bf485f684f1626dabd7115015122b9eead9d4981bc39bc29b569988d990c3bffd6c31af44583847847fe35931ebba91585e49c70ffc286730762f3ba58276e66f66c48cc785122be76ab7d172b6bcbca4802e6b5a592db1be9649c6ad8c29aec9ed5a57b4511
+https://cloud.connect.justeattakeaway.com/ncv_menu?http_querystring=&countryCode=de-de&menuLangTitle=Sprache
+https://cloud.connect.justeattakeaway.com/NL_Bike_Order_flow?sku=escooter_pro
+https://cloud.connect.justeattakeaway.com/one-click-unsubscribe?sfmc_id=99491017
+https://cloud.connect.justeattakeaway.com/unsubscribe-uk?utm_id=bfebad94-8ead-472e-83c1-c73fde216b72&sfmc_activityid=db3b8654-2f95-44d2-b789-87ae845fa006
+https://kitchen.justeattakeaway.com:443/home/login?nextUrl=https://kitchen.justeattakeaway.com/home/
+https://newsroom.justeattakeaway.com/de-DE/search/?q=EU Richtline Plattformarbeit
+https://partner-hub.justeattakeaway.com/auth/realms/restaurant/login-actions/reset-credentials?client_id=live-orders&tab_id=5D43pBao5oM
+https://partner-hub.justeattakeaway.com/auth/realms/restaurant/protocol/openid-connect/auth?redirect_uri=https://live-orders.just-eat.fr/orders&state=013802b2-1a28-4650-9d50-d1eb34e00f11&response_mode=fragment&response_type=code&scope=openid&nonce=5fe6a465-335f-4cfd-8854-0e7387aeb360&code_challenge=28sCwer6s1X1t3ecmqBtQSXHPZnlFnsZpk5H-f5_SpM&code_challenge_method=S256
+https://partner-hub.justeattakeaway.com/auth/realms/restaurant/protocol/openid-connect/auth?kc_locale=de
+https://tech.justeattakeaway.com/2014/02/13/tips-for-using-ec2-spot-instances/?replytocom=3
+https://tech.justeattakeaway.com/2015/03/30/how-to-fix-flaky-tests/?hss_channel=tw-920289756919074817
+https://tech.justeattakeaway.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1047990064
+https://tech.justeattakeaway.com/_Incapsula_Resource?SWKMTFSR=1
+https://tech.justeattakeaway.com/wp-json/oembed/1.0/embed?url=https://tech.justeattakeaway.com/2015/03/30/how-to-fix-flaky-tests/&format=xml
+https://tech.justeattakeaway.com/xmlrpc.php?rsd=
