@@ -1,0 +1,10 @@
+https://zentral.cpe.indeed.tech/accounts/login/?next=/
+https://id.indeed.tech/api/internal/brand/theme/style-sheet?touch-point=SIGN_IN_PAGE&v=abc4780733b2999dc5536ea4bf18a7237d32beafe91e2f7611b8af3ecb8ae0d0dfb208992a3b1ecefd0c0f9333f4b59d
+https://id.indeed.tech/app/generic-saml/exkcub0hty3wVzjnp4x7/sso/saml?SAMLRequest=nZJBj9sgEIX/im+cMAY7jo3iSNZGlSJtq2q33UMvFYbxhtYGl8HdbH997USV0kP3UG4DM4/3PdihGodJtnM8uQf4MQPG5Ig4w9FhVC42RGQip1lNhfiUCSlKmW+/kOQ8Dg7lOtyQOTjpFVqUTo2AMmr52L6/lyLNpEKEEK13JDks2taptWjIKcYJJWPWpNYZAJNG0Cempok9g4NgNV3FGZy/67nLTvE1f3n69c1NxXnLED1bT0nyBAEvestdt6amt11NwUev/SJwPDTka8mF5lWf0bzjhmY815SXtaCi3BZKdb2uNj1J2j8od97hPEJ4hPDTavj8cH/Dc4XxDgb/bF2q/ciU1oC4oE5kv1vdyUvCYf/WEE5sU2RcVcWWFmVvaFHzitZFV9OqNhnfdMvq1Y7dCu6ur/lhAT4ePvrB6tekHQb/chdARWhIDDOQ5J0Po4r/join/LJjDe0vrRJGZYfWmLCA/E/ObH81+vdP2/8G&RelayState=79e41fe3-ef6b-432a-b594-095831f86f26
+https://id.indeed.tech/app/indeed_cloudflaresamlsandbox_1/exkcn90ay3KDUr55C4x7/sso/saml?SigAlg=http://www.w3.org/2001/04/xmldsig-more#rsa-sha256&Signature=KD2CyeoaG7j6++130T4LaWXtSQ2SMZIBdn5PIuAIefIqTkiwsqwNOd6wDumnW8C6dWaNerse4RiiCyW+iHzD42QM+WRBS1S/MXHtrArs2Vgt5CqcUpVZHUOGx/1sO5cQH1jw6EH+wvZWb+0hQar4Sulea7mJPOCYoOq9M6RYTw0jmuK8pBUkBILWedAGf17FVSLtAVo7mZSa3ZOWeXg9boZPaYcRWAOJgioPmMvAh46IpJxK//ryz4Vf3xmO4LWytMv/AvXrBc8U6Mi4/v2/yA9kD/p5YW2RULSz81HOzOXvkIvoGgOz6SpyeeTEZSbX3hn+iGk71XkDzFsbds7KsA==
+https://id.indeed.tech/app/UserHome?iss=https://id.indeed.tech&session_hint=AUTHENTICATED
+https://id.indeed.tech/oauth2/ausdemmtrnyZ8dG1J4x7/v1/authorize?client_id=0oadvl50snQT76fLu4x7&redirect_uri=https://link.indeed.tech/okta/callback&response_type=code&scope=openid adgroups&state={"csrf":"3ZxECX085MM1JhHtynxIboF9JmTopUHJvEjLnP0fLi9jZBgxEByYhKbFSOtJYcFSiAjpETfy8oQMdAQvVUe84w","return":"/GLYEGYWT2."}
+https://id.indeed.tech/oauth2/ausdemmtrnyZ8dG1J4x7/v1/authorize?nonce=hBFbOFC8N0TFnheK0H5DwgftW7LFiHaq
+https://id.indeed.tech/oauth2/ausjlql7024a0HDjl4x7/v1/authorize?code_challenge=BauVf8jd-J_y2Ec4SDNrGEoIhZgv5o0Rg6BFe7brUuI&code_challenge_method=S256
+https://okrs.indeed.tech/?p=y22q1
+https://okrs.indeed.tech/api/auth/login?origin_uri=https://okrs.indeed.tech/auth

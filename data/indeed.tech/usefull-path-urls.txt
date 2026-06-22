@@ -1,0 +1,9 @@
+https://zentral.cpe.indeed.tech/accounts/login/
+https://id.indeed.tech/api/internal/brand/theme/style-sheet
+https://id.indeed.tech/app/generic-saml/exkcub0hty3wVzjnp4x7/sso/saml
+https://id.indeed.tech/app/indeed_cloudflaresamlsandbox_1/exkcn90ay3KDUr55C4x7/sso/saml
+https://id.indeed.tech/app/UserHome
+https://id.indeed.tech/oauth2/ausdemmtrnyZ8dG1J4x7/v1/authorize
+https://id.indeed.tech/oauth2/ausjlql7024a0HDjl4x7/v1/authorize
+https://okrs.indeed.tech/
+https://okrs.indeed.tech/api/auth/login
