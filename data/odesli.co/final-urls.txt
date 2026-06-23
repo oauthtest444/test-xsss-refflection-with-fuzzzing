@@ -1,0 +1,29 @@
+https://odesli.co/9htkp77h97jhp?source=user_about----------------------842114ded6d7----------------------
+https://odesli.co/?q=Dewan Motihar Trio, Irène Schweizer Trio, Manfred Schoof & Barney Wilen – Jazz Meets India
+https://odesli.co/?ref=birchtree.me
+https://odesli.co/_next/image?url=https://avatars.yandex.net/get-music-content/2390047/049866f6.a.9026716-1/600x600&w=1080
+https://odesli.co/create?entityUniqueId=itunes|album|1653471640
+https://odesli.co/dashboard?supportSignUp=true&supportForgotPassword=true&email=aminkhodayari98.ak@gmail.com&message=Your email was verified. You can continue using the application.&success=true&code=success
+https://odesli.co/embed/embed/embed/embed/embed/embed/embed?wmode=opaque
+https://odesli.co/embed?context=spotify:album:1s
+https://odesli.co/embed?dl_branch=1
+https://odesli.co/embed?referrer=asdasd
+https://odesli.co/https://music.apple.com/fr/album/et-m%C3%AAme-apr%C3%A8s-je-taimerai/1550095089?i=1550095090
+https://odesli.co/https://music.apple.com/nl/album/moscovium/1530085478?l=en
+https://odesli.co/https://music.apple.com/us/album/cocoa/1147496391?uo=4&app=music
+https://odesli.co/login?iss=https://login.odesli.co/
+https://odesli.co/return?state=M2xsZGlhZ1ZuT29zV0VJMkQtYnozSkJvRmttbi5ERDk3Q0hubG9BMDNydQ==
+https://odesli.co/site.webmanifest?v=6
+https://api.odesli.co/lookup?userCountry=NL
+https://api.odesli.co/lookup?uniqueId=youtube|album|OLAK5uy_kHqkcMiZOiom4Ayri1c2P3sCAw8a1WNcs
+https://api.odesli.co/matches?songIfSingle=true
+https://api.odesli.co/oembed?format=json
+https://api.odesli.co/resolve?mt=1&ls=1&at=1000lHKX&ct=odesli_http&itscg=30200&itsct=odsl_m
+https://api.odesli.co/search-results?providers=invalid,amazon&query=the&type=song
+https://api.odesli.co/search-results?results=10
+https://embed.odesli.co/?feature=youtu.be
+https://embed.odesli.co/?index=6&list=PL8a8cutYP7fpG5fXlFsCLvYyKLgtWxJXx
+https://embed.odesli.co/?t=107s
+https://login.odesli.co/authorize?client_id=Jnw2PHng2eMCpMNSShVsp6EdJ0xN9BHD&audience=https://api.odesli.co&redirect_uri=https://album.link/return&scope=openid profile email&response_type=code&response_mode=web_message&nonce=MWsuMEtTMld+dzk3eklLNVhUT1pCMGVDcWV+VnJWYXMxaVdXZ3hMU2xGTQ==&code_challenge=1PqwsX_tnPktIiKN9qUDQk9yUfgH4dm_UwSBRyseAC0&code_challenge_method=S256&prompt=none&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMTAuMCJ9
+https://login.odesli.co/authorize?onLoginError=function f(e){d.default.push({pathname:"_error",query:{statusCode:400,message:e.error_description||e.message||"We encountered an error logging you in."}})}
+https://login.odesli.co/lo/reset?ticket=7Q0pKk4VjXTieTvVw0OZONQikfRj683A
