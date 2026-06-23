@@ -1,0 +1,79 @@
+http://luno.com/?domainname=luno.com&a_id=104241
+https://www.luno.com/?authenticator.2stable.com=
+https://www.luno.com/?bitx=true
+https://www.luno.com/?ref=producthunt
+http://luno.com/?epl=3SwJph_e1gGliFA_uu4dZASLkaxDQuEUyV38kzLU2YPBEIgkMsg4CSBGdrwlc9uqn1-nXLsybIuaEGW9e1AedGUQSBUXWeUqPUIMSulYZIFY64ngzayBBpQZTaN6Uz3aGKJNDJroEU2bepoidAAgAN6nvwAA4H8BAABAgNsHAADBYiTrWVMmWUExNmhaQmkAAADw
+https://www.luno.com/?irclickid=&irgwc=1
+https://www.luno.com/?promo=2GE55
+https://www.luno.com/?ref-techzim=
+https://www.luno.com/?referer=https://no.fxempire.com/crypto/exchange/luno/review
+https://www.luno.com/?referrer=singular_click_id=1126eed2-446d-4ca4-ae1a-c7f4caa66b60
+https://www.luno.com/?source=launchafrica.io
+https://www.luno.com/?tduid=49f728d5bd897d85ce66abcef8920048
+https://www.luno.com/?trk=article-ssr-frontend-pulse_little-text-block
+https://www.luno.com/?url=http://syydnr.com
+https://www.luno.com/ajax/1/candles?pair=ETHMYR&since=1516274874
+https://www.luno.com/ajax/1/exchange_candles?duration=3600&include_partial=true
+https://www.luno.com/ajax/1/help/search?lang=
+https://www.luno.com/ajax/1/price_chart?currency=
+https://www.luno.com/ajax/1/recent_utxs?since_timestamp=
+https://www.luno.com/ajax/1/widgets/pricechart1?language=en
+https://www.luno.com/authorize?token=218lgK86Sh2emPAZT45M7A
+https://www.luno.com/blog/en/page/2?category=company-updates
+https://www.luno.com/blog/en/post/dont-buy-whole-bitcoin?campaign-type=bacampaign-medium=socialcountry=gllanguage=englishcontent=blogcampaign-name=don't-buy-whole-bitcoin
+https://www.luno.com/blog/en/?p=2943
+https://www.luno.com/blog/en/?sccss=1&ver=4.6.1
+https://www.luno.com/careers/job/4793168?gh_src=findweb3.com
+https://www.luno.com/en-US/login/oauth2v2?state=ip=inxyET2x.CrrbGA&provider=3&redirect=%2Fwallet&token=NonitMQjWgl9IgQliMCrRs5qPww%3A1652340245076&code=4/0AX4XfWjfawCCUUG_rOnfJxXq7qtlEA9g4LmyWxkVC5Qcc36seyHzrHTM3bzWVi2EiM2ibA&scope=email profile https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid&authuser=0&prompt=consent
+https://www.luno.com/en-US/login?redirect=/wallet/security
+https://www.luno.com/en-za/pay?wpsrc=Twitter&wpcid={campaign_id}&wpcn={campaign_nam[…]y
+https://www.luno.com/en/careers/job/1272111?gh_jid=1272111
+https://www.luno.com/en/features?campaignid=16455943085&adgroupid=135626375924&matchtype=p&keyword=bitcoin wallet&device=c&adid=615030104812
+https://www.luno.com/en/forgot_password?email=
+https://www.luno.com/en/lock_account?expires=1731597861456&uid=4491452660068650437
+https://www.luno.com/en/oath_reset?login_token=
+https://www.luno.com/en/signup?ZXH2NK=
+https://www.luno.com/en/?id=19034
+https://www.luno.com/help/articles/1000185304?contact_reason=21
+https://www.luno.com/help/en-US/tickets/new?category_id=7
+https://www.luno.com/help/en/articles/100833274103215?lid=fjmscvps6nff
+https://www.luno.com/help/en/tickets/new?subject=TrueLayer not successful: Name Mismatch&description= Attached is my bank account statement. 
+https://www.luno.com/help/en/tickets/new?type_id=1
+https://www.luno.com/login?timestamp=1772191386&brand_id=7505534111389&locale_id=1176&return_to=https://guide.luno.com/hc/en-gb
+https://www.luno.com/ms-MY/signup?business=false
+https://www.luno.com/share/qr_code_png?address=1PkjBkobnFfuMUbr8VMz3zaVcVhV5FW3Lj&amount=
+https://www.luno.com/signup?wpcrid=677833&wpcrn=Online Tracking Link&wpsid=2022136&wpsn=Crypto Coin Comparison Ltd
+https://www.luno.com/trade/SOLMYR?ZFRK3=
+https://www.luno.com/wallet/accounts/add?target_account_type=1&target_currency=ETH&skip_guide=false
+https://www.luno.com/wallet/beneficiaries/add?source_account_id=197491022052052230&flow=withdraw
+https://www.luno.com/wallet/buy?target_account_id=2779249393627525242
+https://www.luno.com/wallet/fund?account_id=197491022052052230
+https://www.luno.com/wallet/products?step=1
+https://www.luno.com/wallet/quote?action=buy
+https://www.luno.com/wallet/settings/identity?verify_email=
+https://www.luno.com/wallet/stake?session=currency=AVAX
+https://ajax.luno.com/ajax/1/blog?tags=team-legal, risk & compliance
+https://ajax.luno.com/ajax/1/charts_candles?base=ETH&counter=USD
+https://ajax.luno.com/ajax/1/udf/history?symbol=XLMZAR&resolution=60&from=1734796828&to=1734800428&countback=1&currencyCode=XLMZAR
+https://careers.luno.com/jobs/xml/?rss=true
+https://careers.luno.com/jobs/?orderby=0&pagesize=20&page=1&radius=40&team=Legal Risk & Compliance
+https://careers.luno.com/jobs/?location=Paris&country=France
+https://careers.luno.com/umbraco/jobboard/LatestJobs/GetJobs?culture=en-US&personalise=False&maxjobs=5
+https://lunobase.corp.luno.com/okta_login.jsp?RelayState=/secure/Dashboard.jspa
+https://discover.luno.com/?s=satoshi nakamoto
+https://discover.luno.com/a-beginners-guide-to-cryptocurrency-charts/?alm_page=1
+https://discover.luno.com/update-from-malaysia/?mibextid=Zxz2cZ
+https://discover.luno.com/wp-admin/admin-ajax.php?initial_id=10926&order=previous&taxonomy=&excluded_terms=&post_type=post&init=true
+https://discover.luno.com/wp-json/wp/v2/legal?status=publish&slug=complaints
+https://discover.luno.com/wp-login.php?redirect_to=https://discover.luno.com/wp-admin/&reauth=1
+https://discover.luno.com/xmlrpc.php?rsd=
+https://guide.luno.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=8a76b1523c829812
+https://guide.luno.com/hc/en-gb/requests/new?ticket_form_id=18461949849117&tf_subject=I need help to link my new mobile number to GoPay&tf_18463307295517=i_m_unable_to_make_a_deposit&tf_18463435295517=i_m_not_able_to_make_an_instant_deposit
+https://guide.luno.com/hc/en-gb/requests/new?tf_18463347355293=twin_deposit
+https://guide.luno.com/hc/en-gb/requests/new?tf_18481130840989=i_have_a_general_account_question
+https://guide.luno.com/hc/en-gb/requests/new?tf_18481745481757=i_lost_my_phone__i_m_unable_to_access_my_luno_account
+https://guide.luno.com/hc/en-gb/requests/new?tf_18482175778845=crypto_send_fee_limits__i_want_to_query_send_limits
+https://guide.luno.com/hc/en-gb/requests/new?tf_18482420570013=i_m_waiting_to_receive_crypto
+https://guide.luno.com/hc/en-gb/requests/new?tf_18496634747805=i_have_a_rewards_query
+https://guide.luno.com/hc/en-gb/requests/new?tf_27219796663581=i_want_to_report_a_scam
+https://status.luno.com/incidents/00hrzq338bjm?u=1ldmbnw8rdsr
