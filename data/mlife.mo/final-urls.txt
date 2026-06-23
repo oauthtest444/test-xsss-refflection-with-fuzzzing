@@ -1,0 +1,4 @@
+https://mlife.mo/?lang=en
+https://mlife.mo/FourWindsIntegration/GamingLoyaltySystem/GetModuleInfo.ashx?Connection=DEV&ModuleName=slider&CultureCode=en
+https://mlife.mo/getCategoryProducts?categoryId=5
+https://mlife.mo/my.logout.php3?errorcode=19
