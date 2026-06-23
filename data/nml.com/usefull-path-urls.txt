@@ -1,0 +1,5 @@
+http://www.nml.com:80/cgi-bin/unitval.pl
+https://bpvdi.nml.com/
+https://sts.nml.com/adfs/ls/idpinitiatedsignon.aspx
+https://sts.nml.com/adfs/oauth2/authorize
+https://sts2.nml.com/adfs/ls/

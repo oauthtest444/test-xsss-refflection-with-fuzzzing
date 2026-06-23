@@ -1,0 +1,7 @@
+http://www.nml.com:80/cgi-bin/unitval.pl?source=pannuity1-main.pat
+https://access.nml.com/my.logout.php3?errorcode=19
+https://bpvdi.nml.com/?includeNativeClientLaunch=true
+https://mobile.nml.com/quest/forms/auth/login.fcc?TYPE=167772161&REALMOID=06-8f848d1f-0bd4-4a2c-b3f6-70501b944441&GUID=0&SMAUTHREASON=5&METHOD=GET&SMAGENTNAME=-SM-7guea8I6eiq3FrVb6nP2M3jWw5+e500xNL7xFTgZJF49+esCLt/TeA8/A4ol9Ke7&TARGET=-SM-https://mobile.nml.com/quest/
+https://sts.nml.com/adfs/ls/idpinitiatedsignon.aspx?logintoRP=standard
+https://sts.nml.com/adfs/oauth2/authorize?client_id=77c1a139-e7a4-46b4-8de1-ae3e72e57449&resource=aplibrary&response_type=code&scope=openid profile email allatclaims&redirect_uri=https://aplibrary.northwesternmutual.com/aplibry/auth&RedirectToIdentityProvider=urn:radiantone:aplibrary&state=01321bb4591c158652baf992b41aa905
+https://sts2.nml.com/adfs/ls/?client-request-id=0be6f4be-e540-4959-9dfc-f486a9c8ea92&username=&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=estsredirect=2&estsrequest=rQIIAR2PvUsCYQCHfT01sygJicYbnILz3rt7uy8IjAgLUpcGdTvv3sOj-_LuvQz_gLAt2hJc2oSmJmmoNZwcw70IpwYJh4as5Rl_z-_ZpbgCp-Z1ZCh8UxYYRccigwwEGVkTOQZiZJpQFCHPN4OtTPZ5_rFWfK-fDH7mV8PX2W0fbLteQFodHBIcuE5EIs0u6J4zAmACwCcA0_hm9SAiLf4PXmB1cZ-iNUHmTF5SRCzIkoAFqWnIIkKmoAiShhB8pFLLDcdzx1TO87FrGbQfeKZlYxo7mmW_UWCSALPEOkyq6XQmu7ETp2OLBLhPLj8Oj0bftcX18Qu5Gzz0irFxkm1ItVKXtMv1UhR2K7hccap-W0FiWTE69uFZ9YKc1qxLHysluA9V7iYFvlKgtxJ7Ws23CPFDlWUdr7nUF1znP481tZAEmn7OasusaSbHQ05hoMRwiOZ5FXLqntz4BQ2
