@@ -1,0 +1,2 @@
+https://labs.api.openai.org/?iss=https://auth0.openai.com/
+https://labs.api.openai.org/auth/callback?code=C-W3tTcKguFfUlioR7xPyAfNUhs0hXviH5eu3Tf-rZ5mo&state=RnN4TU5oaE5kMXU5cHktRFl5WWRQOUNBUWRZNzc3bjNKV1R0Sk9kUUNwbw==
