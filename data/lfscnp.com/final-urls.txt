@@ -1,0 +1,2 @@
+https://develop.checkout.test.merchant-services-np.lfscnp.com/merchant/login?sso=true
+https://feature-au-ht-main.apply-test.originations-np.lfscnp.com/davidjonespremiere?targetRole=poc-test&merchantID=test-000421316&source=0&stream=Upstream&gemid1=par:davidjones:apply-referral:davidjonespremiere:conversion:checkout-apply-now&utm_medium=par&utm_source=davidjones&utm_campaign=apply-referral&utm_content=davidjonespremiere:conversion:checkout-apply-now

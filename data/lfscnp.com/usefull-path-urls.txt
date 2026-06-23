@@ -1,0 +1,2 @@
+https://develop.checkout.test.merchant-services-np.lfscnp.com/merchant/login
+https://feature-au-ht-main.apply-test.originations-np.lfscnp.com/davidjonespremiere
