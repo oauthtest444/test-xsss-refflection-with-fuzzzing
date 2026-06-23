@@ -1,0 +1,8 @@
+http://www.mgmmacau.com/ababar/whatson?q=room_booking/javascript
+http://www.mgmmacau.com:80/contactus?subject=Accommodations
+http://www.mgmmacau.com:80/dailypromotions/?year=2011&month=5
+http://www.mgmmacau.com/glc/e/photo_gallery/?cat=129
+http://www.mgmmacau.com:80/room_booking?t=1271793075
+http://www.mgmmacau.com:80/zh-hant/contactus?from=/event
+https://adfs.mgmmacau.com/adfs/ls/?SigAlg=http://www.w3.org/2000/09/xmldsig#rsa-sha1&Signature=DRYYwc7MNS841rpw0tbDMkRcqHJK6+Hey9bNRi0IqvJeBkcfhcvI/+VgHWRqiv2m7JWdpy3HqEJlAi5Gr3nRV1nNgCaHWHITauroN2QBTeMsdwiHdrLlF8F65xA++Gbx8quWAQPJZISGFnTMF/77Fv1MJFBI6UktsltLCxUTVy8zYxcnER3QuQpHnMZwn4udx/LeseerPMrxUXmxiu2YSSe7vK//Ap3Z7zpRT4AnDf0xa7FZaBieUZcaeCipLvPaW1pUxSTPeoW0tsHLat3iCS8rpF/92ySF4DG0ta2BO5g3dws9R/RwhBTQ1ybd3nKgr2b109QdG7i4h5e7txObWQ==&SAMLRequest=jVJNb+IwEL3zK1DukJSUbWIBUrZs20gUENA97GU1xBOwFNtZj9OPf1/HaenHAe3Ip+d5b948e0Igq5pljT2qDf5rkGyv7+pZVoqYv5wGjVFMAwliCiQSswXbZvcLNhpGrDba6kJXwTfaeRYQobFCq46Wz6fBavlrsbrNl395lKRXBabjSxjH8QUk+xQSjMs4isvyR8ohSS7i8nLfUX+jIaczDZxsh6yNfhQczdJNnQZ3+qD7c3EQFt485kQN5oosKOto0Wg8iGJ3dlHExikbJX+6vrnLQiiwXv1obU0sDIGXNJQHKaGAZlho6ZGwovA03MfxUygu1OF8CvuuidjdbrcerFfbXSeSvadzrRU1Es0WzaMo8GGz+HDiTAygFsOjW5B3+3k/bfijEAoKZl5s0gLML21m/0eWaIGDhUn4mfuhVrM223y+1pUoXjze1o02Euz5lVtE8EHpWxlKEFXGuUGi4KSTVZV+ujYI1r2fNQ0G/XDW63Vuvv7V2Ss=&RelayState=https://mgm-api.hogodigital.com
+https://mlifeinsider.mgmmacau.com/my.logout.php3?errorcode=19

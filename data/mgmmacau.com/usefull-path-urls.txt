@@ -1,0 +1,7 @@
+http://www.mgmmacau.com/ababar/whatson
+http://www.mgmmacau.com:80/contactus
+http://www.mgmmacau.com:80/dailypromotions/
+http://www.mgmmacau.com/glc/e/photo_gallery/
+http://www.mgmmacau.com:80/room_booking
+http://www.mgmmacau.com:80/zh-hant/contactus
+https://adfs.mgmmacau.com/adfs/ls/
