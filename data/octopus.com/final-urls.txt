@@ -1,0 +1,89 @@
+https://octopus.com/?platform=hootsuite
+https://octopus.com/?r=prd-srmt
+https://octopus.com/?ref=alastaircrabtree.com
+https://octopus.com/?source=remotework.FYI&src=remotework.FYI
+https://octopus.com/?trk=products_details_guest_secondary_call_to_action
+http://www.octopus.com:80/?V=D1ACD335EA5C11D385220050DA1449D0
+https://octopus.com/api/marketing-events/single?placement=popup
+https://octopus.com/blog/all?skip=
+https://octopus.com/blog/devops-reading-list?hss_channel=tw-3283815349
+https://octopus.com/blog/devops-reading-list?WT.mc_id=DOP-MVP-5003170
+https://octopus.com/blog/search?q=excalibur hotel 
+https://octopus.com/blog/search?context=blog
+https://octopus.com/bundles/jquery?v=YJ7rR0-ui2pJHn7dLV0ziUiCI3z6OLCVN3vzKpIYQFQ1
+https://octopus.com/cdn-cgi/rum?req_id=6657b7e58861214b
+https://octopus.com/company/careers/0432adbc-0a4d-4e11-aeca-900cb7195bae?gh_src=Insight Partners job board
+https://octopus.com/company/careers/c0043666-1a31-4701-822e-a74811cd42c8?lever-origin=applied
+https://octopus.com/company/contact?lp=enterprise
+https://octopus.com/company/contact?pricing-request=1
+https://octopus.com/company/customers?feature=deploying to Kubernetes
+https://octopus.com/company/customers?industry=Software as a Service (SaaS)
+https://octopus.com/docs/guides?application=ASP.NET Core
+https://octopus.com/docs/guides?destination=Tomcat
+https://octopus.com/docs/guides?buildServer=Azure DevOps/TFS
+https://octopus.com/docs/guides?packageRepository=Docker Registry
+https://octopus.com/docs/pages/children.action?spaceKey=OD&node=root
+https://octopus.com/docs/rest/highlighting/1.0/panel-items?pageId=3047956
+https://octopus.com/docs/rest/prototype/1/i18n/com.atlassian.confluence.plugins.recently-viewed-plugin?locale=en_GB
+https://octopus.com/docs/rest/quickreload/latest/3047956?since=1464439038152
+https://octopus.com/docs/users/userinfopopup.action?username=michaelnoonan
+https://octopus.com/docs?oldpage=/plugins/pagetree/naturalchildren.action?decorator=none&excerpt=false&sort=position&reverse=false&disableLinks=false&expandCurrent=false&hasRoot=true&treeId=0&startDepth=0&mobile=false&ancestors=3048089&treePageId=3048069
+https://octopus.com/docs?decorator=none
+https://octopus.com/docs?modificationDate=1381055863400&api=v2
+https://octopus.com/docs?version=1
+https://octopus.com/downloads/compare?from=0.9.620.4
+https://octopus.com/downloads/compare?fro=
+https://octopus.com/downloads/compare?to=0.9.571.2641
+https://octopus.com/downloads/compare?product=OctopusServer
+https://octopus.com/downloads/OctopusServer/thanks?releaseVersion=2.3.2
+https://octopus.com/downloads/OctopusServer/thanks?filePlatform=WindowsX64
+https://octopus.com/free-signup?location=blogs
+http://www.octopus.com:80/hk/enter.jsp?siteid=startl
+http://octopus.com:80/index.php?option=com_myblog&blogger=Administrator&Itemid=0
+http://octopus.com:80/index.php?task=section&id=1
+http://octopus.com:80/index.php?show=Welcome-to-MyBlog!.html
+http://octopus.com:80/index.php?limit=4&limitstart=4
+http://octopus.com:80/index.php?no_html=1
+https://octopus.com/legal/privacy?gbraid=0AAAAAoXbsxx3oK1GTvXMamJh1UGAIxuBt
+https://octopus.com/lp/multi-tenanted-deployments?gad=1
+https://octopus.com/publications?mkt_tok=MjcxLUJFWC04MjcAAAGXdMU6OqgtaRYkBhOL2E29soXxq-fNTwrunZoh4q4edc_y2hAdjO2WQXX-8IEpc8n70Op1BTfGrhm6n_M_-c5vJPc_s85NtVqnfiuduJL5
+https://octopus.com/register?registerReturnUrl=/signin
+https://octopus.com/register?signInReturnUrl=/
+http://www.octopus.com:80/search.oce?d=&cat=&o=101&pn=3&total=500
+https://octopus.com/shipped?new=
+https://octopus.com/signin/email-only?ReturnUrl=/signout
+https://octopus.com/signin?Sso=commercial-billing-portal&SsoInitiated=2025-03-12T08:40:56Z&Payload=eyJjbGllbnRJZCI6ImNvbW1lcmNpYWwtYmlsbGluZy1wb3J0YWwiLCJub25jZSI6InhXSGtqdFZFbWlrTWFVSUVEWEU1cHciLCJzdGF0ZSI6Ii8iLCJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vYmlsbGluZy5vY3RvcHVzLmNvbS9hdXRoL2NhbGxiYWNrIn0=
+https://octopus.com/signin?returnUrl=/
+https://octopus.com/start/validate/server?propertyName=Company&Company=Justice of the Peace
+https://octopus.com/start/validate/server?FirstName=Justice
+https://octopus.com/start/validate/server?LastName=Peace
+https://octopus.com/start/validate/server?EmailAddress=matt.hilton@octopus.com
+https://octopus.com/start?variant=f
+https://octopus.com/upgrade?licenseKey=
+http://www.octopus.com:80/view.oce?p=gmspy
+http://www.octopus.com:80/wp-login.php?action=lostpassword
+http://www.octopus.com:80/wp-login.php?redirect_to=/wp-admin/edit-pages.php
+http://www.octopus.com:80/xmlrpc.php?rsd=
+https://advisories.octopus.com/post/2022/sa2022-15/?cve=title
+http://docs.octopus.com:80/browsepeople.action;jsessionid=56EF813C5D2196C097CEA6B264BF0FED?startIndex=
+http://docs.octopus.com:80/display/OD/Deploying+ASP.NET+Core+Web+Applications?showChildren=false
+http://docs.octopus.com:80/labels/listlabels-heatmap.action?key=OD
+http://docs.octopus.com:80/login.action?os_destination=/display/OD/Calamari
+http://docs.octopus.com:80/pages/diffpagesbyversion.action?selectedPageVersions=13
+https://get.octopus.com/index.php/form/getForm?munchkinId=271-BEX-827&form=1062&url=https://octopus.com/blog/aws-cloudformation-ec2-examples&callback=jQuery11240856298375268715_1677442467305
+https://handbook.octopus.com/getting-oriented/what-we-do?as=json
+https://handbook.octopus.com/~gitbook/pdf?only=yes
+https://help.octopus.com/c/cloud?no_subcategories=false
+https://help.octopus.com/latest?category=support
+https://help.octopus.com/message-bus/c0455dea83534eea9adc3ce4c18ea086/poll?dlp=t
+https://help.octopus.com/t/action-names-in-multi-step-deploy-versus-regular-package-step/22538/3?u=jimlocke2
+https://help.octopus.com/tag/cloud?match_all_tags=true
+https://learning.octopus.com/?msg=not-logged-in
+https://learning.octopus.com/admin/api/certificate/6197cb3b2fbcec4da328aab2/user/6295da9e076e76004e3db910?lw_client=6109891a814a812d5712402b&access_token=
+https://learning.octopus.com/font-server/css?family=Lato:300,300i,400,400i,700,700i,800,800i|Maven Pro:300,300i,400,400i,700,700i,800,800i|Lato:300,300i,400,400i,700,700i,800,800i|Oswald:300,400,400i,700&subset=cyrillic,latin-ext,vietnamese,greek
+https://learning.octopus.com/payment?product_id=
+https://learning.octopus.com/payment?type=learning_program
+http://my.octopus.com:80/index.php?domain_name=OCTOPUS.COM&q_type=rx&token=ZJhkUu4EgM4KEwjXzMGMjt6MAhUb7GAKHSFnTLEQAxgBIAowyI2UEQ
+http://my.octopus.com:80/index.php?redir=1
+https://shop.octopus.com/account/login?return_url=/account
+https://trust.octopus.com/resources?s=mmi4yst2mey0nqit2q96rs&name=2024-octopus-cloud,-server-pen.-test-report
