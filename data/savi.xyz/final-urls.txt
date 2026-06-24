@@ -1,0 +1,9 @@
+https://www.savi.xyz/newsdetails?title=news&category=&category_id=crypto&news_id=ca3fa7cf480aebb7c84c6abf07728672&news_time=1672756699&news_coin=&news_entry_id=13a42c3a230103pl_cb
+https://www.savi.xyz/newsdetails?style=dark
+https://airdrop.savi.xyz/airdrop/za_airtime_ref?debug=2
+https://airdrop.savi.xyz/celo/cd_Zf7v/20230318?signature=CF2515A3E4A8F58641D619982A06627D4CF80F80774F6609C993CFF1430BE637
+https://api.airdrop.savi.xyz/api/client/info?user_id=&noheader=true&uid=02e97c9b-9432-4ce4-89d7-530d2799e25f&device_id=02e97c9b-9432-4ce4-89d7-530d2799e25f
+https://giveaway.savi.xyz/giveaway/operacryptocard?lang=de
+https://m.savi.xyz/airdrops?activeLink=upcoming
+https://m.savi.xyz/newsdetails?country=cb&language=en
+
