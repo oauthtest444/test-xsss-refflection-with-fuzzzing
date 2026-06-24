@@ -1,0 +1,165 @@
+http://www.seek.com/_vti_bin/fpcount.exe/?Page=Default.htm|Image=4|Digits=7
+https://www.seek.com/browser-upgrade?continue=https://www.seek.com/
+https://www.seek.com/starawards/enter?tracking=OSM-TWR-SOP-SEEK_STAR_awards_launch_video-26981
+https://au.seek.com/?classification=1200
+https://au.seek.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=12813442788&gbraid=0AAAAABa47exWE6lKo2GHhybQ5rsFw00Ze
+https://au.seek.com/ability-housing-jobs/in-All-Perth-WA?salarytype=annual&salaryrange=100000-
+https://au.seek.com/Active-Utilities-jobs/at-this-company?daterange=14
+https://au.seek.com/ai-jobs/in-All-Sydney-NSW?jobId=92334335&type=standard
+https://au.seek.com/ai-jobs/in-All-Sydney-NSW?pos=1
+https://au.seek.com/api/iam/oauth2/authorize?client_id=WorkDayDev&response_type=code&scope=r_profile_apply&redirect_uri=https://cb-eu.myworkday.com/cb1&state=https://philips.wd3.myworkdayjobs.com/wday/calypso/cxs/jobapplication/philips/seek/oauth/token?verify=df99058e13de4bd979f74049ee7ee3bc&advertiser_id=21841393&redirectUri=%2Fen-US%2Fjobs-and-careers%2Fjob%2FAmsterdam%2FConsumer-Marketing-Manager---Sonicare_582304-2%2Fapply%2FSEEK%3Fsource%3D%26shared_id%3D&errorRedirectUri=%2Fen-US%2Fjobs-and-careers%2Fjob%2FAmsterdam%2FConsumer-Marketing-Manager---Sonicare_582304-2%2Fapply&advertiser_id=21841393
+https://au.seek.com/audio-engineer-jobs/in-Queensland-QLD?worktype=245,242
+https://au.seek.com/awsk/authorize?id=00adfabe-e313-4fa1-bdfa-e5e89adecec3
+https://au.seek.com/career-advice/article/resumes-the-good-and-the-bad?utm_segment=Inactive&flag=GA
+https://au.seek.com/career-advice/role/accountant/salary?campaigncode=lrn:skj:sklm:cg:jbd:alpha
+https://au.seek.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9fb1a6f04d8d888e
+https://au.seek.com/companies/search?term=the book house
+https://au.seek.com/companies/write-a-review?cn=Beyond Blue
+https://au.seek.com/expiredjob/91773006?ref=saved-homepage
+https://au.seek.com/helpdesk-jobs-in-community-services-development/in-All-Melbourne-VIC?tags=new
+https://au.seek.com/helpdesk-jobs-in-marketing-communications/in-All-Melbourne-VIC?savedsearchid=c39de277-fc73-4a37-8a69-0e2dd223ee2f
+https://au.seek.com/helpdesk-jobs/in-All-Melbourne-VIC?sitekey=AU
+https://au.seek.com/identity-error?lang=&error=&error_description=Unable to process redirect callback. This is often caused by calling the /continue endpoint with an invalid state parameter.&connection=
+https://au.seek.com/job/88466569?origin=cardTitle
+https://au.seek.com/job/88505027?savedSearchID=794f77b1-1202-40c0-818f-c8d81b6632d3
+https://au.seek.com/job/90092622/apply/success?sol=3049e3abb2fc55146eb51d7f852262a54b7f49e9
+https://au.seek.com/job/91378676/apply/profile?token=1~0e7a481e-8b2b-472a-a44b-4cd4a7163011
+https://au.seek.com/job/91618653?cid=company-profile
+https://au.seek.com/jobs-in-accounting/in-Hawthorn-VIC-3122/part-time?distance=5
+https://au.seek.com/jobs-in-accounting/in-Preston-VIC-3072?sortmode=ListedDate
+https://au.seek.com/jobs-in-call-centre-customer-service?subclassification=6085,6084
+https://au.seek.com/jobs-in-information-communication-technology/in-All-Melbourne-VIC?classificationdescription=Information & Communication Technology
+https://au.seek.com/jobs-in-information-communication-technology/in-Zillmere-QLD-4034?workarrangement=3,1
+https://au.seek.com/jobs?advertiserid=30941864?ico=amp_navsecondary
+https://au.seek.com/oauth/callback?code=01g73h0fsN_nO6E8MMFNdMLpMA4sC5rq6gMKAzrQ48Wae
+https://au.seek.com/oauth/login?returnPath=/api/iam/oauth2/authorize?client_id=WorkDayDev&response_type=code&scope=r_profile_apply&redirect_uri=https%3A%2F%2Fcb-eu.myworkday.com%2Fcb1&state=https%3A%2F%2Fphilips.wd3.myworkdayjobs.com%2Fwday%2Fcalypso%2Fcxs%2Fjobapplication%2Fphilips%2Fseek%2Foauth%2Ftoken%3Fverify%3Ddf99058e13de4bd979f74049ee7ee3bc%26advertiser_id%3D21841393%26redirectUri%3D%252Fen-US%252Fjobs-and-careers%252Fjob%252FAmsterdam%252FConsumer-Marketing-Manager---Sonicare_582304-2%252Fapply%252FSEEK%253Fsource%253D%2526shared_id%253D%26errorRedirectUri%3D%252Fen-US%252Fjobs-and-careers%252Fjob%252FAmsterdam%252FConsumer-Marketing-Manager---Sonicare_582304-2%252Fapply&advertiser_id=21841393
+https://au.seek.com/oauth/login?returnUrl=/job/92073900/apply/profile?sol=973f5b486adce6462880d96876e156ce4dce68dd&correlationid=01421666-9754-44ba-a1ca-14a3127a58b7
+https://au.seek.com/oauth/login?iss=https://login.seek.com/
+https://au.seek.com/oauth/signin-confirmation?isMobileClient=false&emailEnc=a2FpZmVuZ3BAZ21haWwuY29t
+https://help.au.seek.com/vforcesite/servlet/rtaImage?eid=ka0W20000009ekb&feoid=00N4a000000PFtJ&refid=0EMW200000EtkAD
+https://help.au.seek.com/webruntime/api/apex/execute?cacheable=true&classname=@udd/01p4a00000091Sf&isContinuation=false&method=getArticle&namespace=&params={"recordId":"ka0W20000009ekbIAA"}&language=en-AU&asGuest=true&htmlEncode=false
+https://help.au.seek.com/webruntime/api/services/data/v66.0/connect/communities/0DBW20000003MOzOAM/seo/properties/ka0W20000009z5tIAA?fields=Title,Summary
+https://help.au.seek.com/webruntime/log/metrics?o11y=2
+https://authenticate.seek.com/login?client=8msSXVB0z0v7gN34Y5j0j5Sxn72KTFBB&protocol=oauth2&audience=https://seek/api/talent&fragment=/oauth/login?locale=au&language=en&da_cdt=visid_0196178f8b3300167efcd948ebc60506d007e06500590-sesid_1744152005430-hbvid_a61c47c3_e4c7_4f0e_bf31_234029390802&ui_locales=en&JobseekerSessionId=58a845ff-096c-4708-9fd8-e6321486751d&response_mode=query&nonce=cW83blI2Z3lIdW8zbXl+M3gwa1IyN18uc2tUVklvRWY1WGlCcFRpNzBUaw==&code_challenge=-xLvdmYafC1dwYjlOjOOKlswEdkoqLLmYggt3DD0BxA&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjEuMjIuMyJ9
+https://authenticate.seek.com/login?prompt=login
+https://developer.seek.com/manage/graphql-explorer?query=# Inline arguments are only used to simplify these examples.
+# Parameterise your production queries as per advice above.
+
+# Correct: omit unused argument
+query Omit {
+  events(schemeId: "seekAnzPublicTest") {
+    pageInfo {
+      hasNextPage
+    }
+  }
+}
+
+# Incorrect: set unused argument to null
+query Null {
+  events(schemeId: "seekAnzPublicTest", after: null) {
+    pageInfo {
+      hasNextPage
+    }
+  }
+}
+
+# Incorrect: set unused argument to an empty string
+query EmptyString {
+  events(schemeId: "seekAnzPublicTest", after: "") {
+    pageInfo {
+      hasNextPage
+    }
+  }
+}
+
+# Incorrect: create variable for unused argument
+query Variable($after: String!) {
+  events(schemeId: "seekAnzPublicTest", after: $after) {
+    pageInfo {
+      hasNextPage
+    }
+  }
+}&variables={}
+https://au.employer.seek.com/candidates/?jobid=84973538
+https://au.employer.seek.com/hiring-advice/article/how-to-manage-an-underperforming-employee?sfmc_id=334241078
+https://au.employer.seek.com/job/managejob/express/create/classify?referrer=product_page
+https://au.employer.seek.com/join-sidekicker?source=shopfront
+https://au.employer.seek.com/partners/connected-partners/?region=AU
+https://hk.employer.seek.com/?jobAdId=100003003908791
+https://hk.employer.seek.com/?postToCountry=HK
+https://hk.employer.seek.com/?resumeId=500003009498042&resumeCreateCountry=PH&resumeVersion=1&pageNumber=1
+https://hk.employer.seek.com/?Source=From Navigation Bar
+https://hk.employer.seek.com/account/branding/brands/eddad728-8a23-41a5-8fd2-80df3468c213?redirectUrl=/dashboard
+https://hk.employer.seek.com/candidates/?p=1
+https://hk.employer.seek.com/candidates/?selected=1124299775&tab=resume
+https://hk.employer.seek.com/candidates/?s=Prescreen
+https://hk.employer.seek.com/candidates/?search=
+https://hk.employer.seek.com/job/managejob/express/create/classify?draftId=b1b8901b-85a0-4d46-b1ce-92455fb965c0
+https://hk.employer.seek.com/job/managejob/express/create/classify?draftid=b4b45436-93de-43d6-8731-a57c1640b22b
+https://hk.employer.seek.com/job/managejob/express/create/success?postedjobid=84751362
+https://hk.employer.seek.com/market-insights/future-workforce-study-2024?pem=linkedin
+https://hk.employer.seek.com/market-insights/hk-job-seeker-salary-report-2024?mass=y
+https://hk.employer.seek.com/market-insights/talent-attraction-lab/data-lab?primaryDriver=All
+https://hk.employer.seek.com/registration/complete-user-registration/error?reason=used
+https://hk.employer.seek.com/registration/complete-user-registration?link=fe367640-e5d9-415a-baad-3be257c03728&success=true&message=You can now login to the application with the new password
+https://hk.employer.seek.com/talentsearch/profile/504439726?seedProfileId=504603993&profileType=seek&salaryType=MONTHLY&salaryNation=24553
+https://hk.employer.seek.com/talentsearch/profile/504603993?profilePosition=9&nation=24553
+https://hk.employer.seek.com/talentsearch/similar-candidates/504603993?currentJobTitle=Operation Manager&firstName=Sam Diong&lastName=Chong Wei
+https://id.employer.seek.com/?companyid=2854
+https://id.employer.seek.com/?dept_id=0
+https://id.employer.seek.com/?src=a
+https://id.employer.seek.com/?de=0&WorkState=30500&WorkStateList=30500,90100,110127
+https://id.employer.seek.com/?JID=383136
+https://id.employer.seek.com/?fr=21
+https://id.employer.seek.com/?srcr=11
+https://id.employer.seek.com/market-insights/reports?icmpid=deepeningrelationship:logikarticle_gts_report1:20210325
+https://sg.employer.seek.com/page/credential-verification?redirectfrom=shopfront
+https://sg.employer.seek.com/page/credential-verification?trk=test
+https://help.sg.employer.seek.com/login?ec=302&startURL=/s/
+https://th.employer.seek.com/th?atnct1=892c91e0a653ba19df81a90f89d99bcd&atnct2=76f12d885a91f23cb415b145b17dfe90&atnct3=g0iVF00d198001xy6
+https://staging.help.th.employer.seek.com/th/s/sfsites/aura?r=10&aura.ApexAction.execute=1
+https://staging.help.th.employer.seek.com/th/s/sfsites/aura?ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1
+https://staging.help.th.employer.seek.com/th/s/sfsites/aura?ui-instrumentation-components-beacon.InstrumentationBeacon.sendData=1
+https://staging.help.th.employer.seek.com/th/s/sfsites/auraCmpDef?aura.app=markup://siteforce:communityApp&aura.mode=PROD
+https://staging.help.th.employer.seek.com/th/s/sfsites/auraCmpDef?aura.lcdn=0
+http://info.seek.com/b/ss/seekcommercialprod,seekglobalprod/1/H.25.2/s9930641289437?AQB=1&pccr=true&vidn=309369B84A671861-6000121E4524E029&ndh=1&t=27/2/2018 20:37:9 2 0&ce=UTF-8&ns=seek&cdp=3&pageName=skc:au:d:advice+resources:becoming-a-business-owner&g=http://web.archive.org/web/20180327093656/https://www.seekbusiness.com.au/business-resources/becoming-a-business-owner&cc=AUD&ch=d&server=www.seekbusiness.com.au&events=event74&c1=skc:au&v1=D=c1&c2=skc:au:d&v2=D=c2&c3=skc:au:d:advice+resources&v3=D=c3&c4=advice+resources+becoming-a-business-owner&v4=D=c4&c5=D=g&v5=D=g&c6=advice+resources&v6=D=c6&c8=:skc:au:d:advice+resources:becoming-a-business-owner&c10=D=s_vi&v10=D=s_vi&c59=:skc:au:d:advice+resources:becoming-a-business-owner&v59=direct&v61=6:30AM&v62=Wednesday&v64=New&v65=First page view or cookies not supported&v66=1&h1=skc|au|d|advice+resources&c=24&j=1.6&v=N&k=Y&bw=1635&bh=1087&AQE=1
+https://info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.25.2/s04943158436213?pe=lnk_o&pev2=BrowseAllJobs
+https://info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.25.2/s27091992455418?c7=home page&v56=lrn:skj:oth:hmp:til:182,sk:main:au:bannerhome:Comm-WorkForYou,sk:main:au:bannerhome:JSP-GetInFront,
+https://info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.25.2/s64242241083676?c12=loggedout&v12=D=c12&c54=7daacfdd-d933-445a-a567-7346ab0886f2&v54=7daacfdd-d933-445a-a567-7346ab0886f2
+https://info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.25.2/s91192001028806?v7=sk:main:au:tab:tools
+http://info.seek.com/id?d_visid_ver=2.5.0&d_fieldgroup=A&mcorgid=199E4673527852240A490D45@AdobeOrg&mid=14432953784928880790018160016241695174&ts=1518575322592
+https://secure.info.seek.com/b/ss/seekadvprd,seekadvertiserglobal/1/H.24.4/s08501800411522?c55=D=s_vi&v55=D=s_vi
+https://secure.info.seek.com/b/ss/seekadvprd,seekadvertiserglobal/1/JS-1.6/s03084890598384?pf=1&sdid=54036564347D6829-7737C696E570F4AB&aamlh=9&aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&c41=standard_user&v41=D=c41&v81=am:1.6 | vs:1.5.4 | code:20160927
+https://secure.info.seek.com/b/ss/seekadvprd,seekadvertiserglobal/1/JS-2.5.0-D7QN/s05853698964783?D=D=&fpCookieDomainPeriods=3
+https://secure.info.seek.com/b/ss/seekadvprd,seekadvertiserglobal/1/JS-2.5.0/s08800842209861?c51=adv:home:integration-partners
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0-D7QN/s52681440293807?v8=D=c8&c9=default&v9=D=c9&v11=D=c11&v13=D=c13&v14=D=c14&v15=D=c15&v20=D=c20&v21=D=c21&v22=D=c22&v30=D=c30&v31=D=c31&v32=D=c32&v33=D=c33&v34=D=c34&v38=D=c38&v39=D=c39&c40=32772110185959311794109853065953568451&v40=D=c40&c42=d3aa52692840339dd6c7af0e70951b75&v42=D=c42&c44=d3aa52692840339dd6c7af0e70951b75&v44=D=c44&v50=D=c50&v51=D=c51&v57=D=c57&v58=D=c58
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0-D7QN/s54405425916798?c38=(not set)
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0-D7QN/s56071930703442?v0=seek_banner_29
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0/s11218102905906?aid=30D229A4990A1264-400011000983EDE6&c75=tealium|seek-learning|prod|ut4.46.202111220509
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0/s11736194927010?c46=false&v46=false
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0/s11916864926018?c45=seek_banner_29&v45=seek_banner_29
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0/s14449050110943?lrt=680
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.12.0/s16230463963728?c30=tesol&c31=1&c32=0&c33=8&c34=6
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.13.0-D7QN/s02949395582531?v71=D=c71
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.5.0-D7QN/s01941572359396?pev1=https://www.seek.com.au/learning/&c.=&a.=&activitymap.=
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.5.0-D7QN/s59468921467764?v60=D=c60&c63=https://www.seek.com.au/learning/provider/swinburne-university-of-technology-online/reviews&v63=D=c63
+https://secure.info.seek.com/b/ss/seekeduinsightsprd/1/JS-2.5.0-D7QN/s63325231481481?pid=https://www.seek.com.au/learning/studying/about-study/how-will-study-help-me&oid=https://www.seek.com.au/learning/studying/about-study&ot=A
+https://secure.info.seek.com/b/ss/seekemployment,seekemplmarketingchannels/1/JS-2.5.0-D7QN/s04446589825366?c68=dtm:career-advice-and-about-company
+https://secure.info.seek.com/b/ss/seekemployment,seekemplmarketingchannels/1/JS-2.5.0/s01039894011280?c21=blank&c22=blank&c23=blank&v23=blank&c24=blank&v24=blank&c25=80000-999999&v25=80000-999999&c27=3000&v27=3000&c36=76060&v36=76060
+https://secure.info.seek.com/b/ss/seekemployment,seekemplmarketingchannels/1/JS-2.5.0/s06202271306132?c71=homepage_create_resume_banner:5
+https://secure.info.seek.com/b/ss/seekemployment,seekemplmarketingchannels/1/JS-2.5.0/s76557881057206?c19=35871273&v19=35871273&c43=role_requirements&v43=role_requirements&c49=Information & Communication Technology|Engineering - Network&v49=Information & Communication Technology|Engineering - Network
+https://secure.info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.27.5-D6EF/s41577632030178?fid=46AAC3F24DE19408-24C51CCC64A031FE
+https://secure.info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.27.5-D6L7/s02925197187928?c26=blank&v26=D=c26&c28=3000&v28=D=c28&c29=3000&v29=D=c29&v35=D=c35&c53=notautocorrected|no tier&v53=D=c53
+https://secure.info.seek.com/b/ss/seekemployment,seekglobalprod/1/H.27.5/s57975137174211?pidt=1
+https://secure.info.seek.com/b/ss/seeklearningprd,seekglobalprod/1/H.25.2-D578/s64609182098765?v67=Weekday
+https://secure.info.seek.com/b/ss/seeklearningprd,seekglobalprod/1/H.25.2/s39564600480109?products=;diploma of business administration:oten – open training and education network:obsb50407&c52=OBSB50407&v52=OBSB50407
+https://secure.info.seek.com/b/ss/seeklearningprd,seekglobalprod/1/H.27.5-D6L7/s41761831275720?c11=home&v18=D=c18
+https://secure.info.seek.com/b/ss/seekskvauprd/1/JS-2.20.0/s04631561883576?c70=18230&v70=18230
+https://secure.info.seek.com/b/ss/seekskvauprd/1/JS-2.20.0/s17425305300802?v47=SKMAU:main header
+https://secure.info.seek.com/id?callback=s_c_il[0]._setAnalyticsFields
+https://login.seek.com/lo/reset?ticket=31utJJewU5CIhxmTifV8UdHYqyigQLXr
+https://login.seek.com/login?max_age=3600
+https://login.seek.com/login?login_hint=emman.delrio27@gmail.com
+https://login.seek.com/login?transition_product=seek
+https://nz.seek.com/oauth/signin-confirmation?passwordlessAuthentication=full
+https://au.video.seek.com/detail/videos/career-advice-with-sabina-read/video/6160751965001/coping-with-interview-anxiety?autoStart=true
