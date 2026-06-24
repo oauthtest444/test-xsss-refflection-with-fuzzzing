@@ -1,0 +1,1 @@
+?state=testtt&client=testtt&protocol=testtt&response_type=testtt&redirect_uri=testtt&scope=testtt

@@ -1,0 +1,1 @@
+https://rta.onlineauth.dev.outfra.xyz/login?state=FkiXydXdQHRKMrpLjwgNx5hxaVOBmMzi&client=aCbTAJNi5HbsjPJtRpSP6BIoLPOrSj2C&protocol=oauth2&response_type=code&redirect_uri=https://manage.onlineauth.dev.outfra.xyz/callback&scope=openid profile name email nickname created_at
