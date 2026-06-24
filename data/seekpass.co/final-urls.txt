@@ -1,0 +1,33 @@
+https://seekpass.co/au/credentials/access-to-a-vehicle?internal_link=true
+https://seekpass.co/au/credentials/access-to-a-vehicle?xdatatoken=e6dbb69bbeb2a326bbea9e3a3d9edd6873dd7418154286f3bf1b8045c639f8ec8e26875702278f052c349195d11665ba0ee532a381af7fe0551e9b83c481ad8b
+https://seekpass.co/au/credentials/drivers-licence?metadatatoken=eyJpc1ZlcmlmeUJvb3N0ZWQiOmZhbHNlLCJzbHVncyI6WyJkcml2ZXJzLWxpY2VuY2UiLCJhY2Nlc3MtdG8tYS12ZWhpY2xlIiwicmlnaHQtdG8td29yayJdfQ
+https://seekpass.co/au?tracking=ILC-SAU-EDT-SEEK-Profile-5070
+https://seekpass.co/nz/credentials/right-to-work?role_requirements=eyJpc1ZlcmlmeUJvb3N0ZWQiOmZhbHNlLCJzbHVncyI6WyJuelJpZ2h0VG9Xb3JrIl19
+https://seekpass.co/ph/consent?isMobileClient=false&emailEnc=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjZiOGJlZmQyY2Y3MDBiNjQ3YjI4ZTlhZWMyNWIzZjhkLjIwMjUxMTI2In0.eyJlbWFpbCI6ImVtbWFuLmRlbHJpbzI3QGdtYWlsLmNvbSIsImlhdCI6MTc3NDQxNzA5MywiZXhwIjoxNzc0NDQ1ODkzfQ.YOk6-OqG0Y_gvp5NZOjJJofruEuRB3oDtRYiWwZfYsEpFGQsQ5K7mqQuhv0R2bPFVzrLZs493VtPgy20Hu9qd501XdOJogteSJkB-cDc0ebImtwbk4nbzMVJ56ryo_g55WOeBCFbHiY1ilKaqhHJO6DUljuyAbnh40uXerfEx-Vv-gApYZ1pxsgV9NZEA-5Al6vglkG1q9YgNyPgNG5E-BGiaUbSejA2oKr32Rv3VydbCyjW6WLlcoYQhemOKiF4HOSEjGxvSl-rEw1roEbzwEdsjeAUbO4RBESDwHUZeKJp_twqHdBwgO8WWe9GaIfyzRYjQrAS_rLOk1kruY-MEpDRYclWry1qUV5DQiYA9RJSH2UUc6zw35P-SoB_oXbOALu1oBpOrVKt4eMNtROclQz3ynopxzK9jTFQmVVwkZnvRO9IEuKsBpWFJFIrr3481G5LSbzi-X9SvkA-sgM6-dox3OKzxcy75cQuyuWijQpAjHAVIwB5sX4KYpr9-6jq-CuGs9AEUr12RtZIZD3-3ROMUaWvGajJOnayrUJdrpgDgV0ds9Q0fuogcdMcQStLP7aRhTvTQH6b1WQSaUnkMpkGDwgBKO77qTSqNOO_mamnoS14mPcfYnxlHwuN3xJdI3ulCZ7DWzml--MbJWfCsmVsdIoZ-WZTQ_PQhubGio4&passwordlessAuthentication=full&transitionProduct=seek&locale=ph&state=hKFo2SBHaHVzRVc5MzA4MVVWRDhyb2tSLUd3cDRFRzMtOVhqeKFuqHJlZGlyZWN0o3RpZNkgRXczNUNsOWhsMzhyX2NyaHQyMEs2bEFrV3pKZ28wbUujY2lk2SBNU2ZHSGJleFVGcWxKUERUV1hGTkxoZzZzVjFXTVZvUw
+https://app.seekpass.co/4n4ly71c5/c0ll3c7?a=2094799967&cid=1360889012.1611924087&clt=5985&de=UTF-8&dh=certsy.com&dit=5984&dl=https://certsy.com/?&dns=0&dp=/?&dt=Verified Credentials | Certsy&fl=32.0 r0&gjid=&je=0&jid=&pdt=1&plt=9610&rrt=329&sd=30-bit&sr=3008x1692&srt=2584&t=timing&tcp=0&tid=UA-100578667-5&ul=en-gb&v=1&vp=1494x831&z=1870560623
+https://app.seekpass.co/au-heavy-vehicle-licence/start?updateRequested=true
+https://app.seekpass.co/au-responsible-service-of-alcohol/start?country=au
+https://app.seekpass.co/auth-redirect?code=Ardt6zjBtNsTlgNdeJ96eKqTOI4OyqsDb8CCK0LQ1ZUiS
+https://app.seekpass.co/career-passport/licences-and-registrations?activeResult=5ec3af0a-d20c-403a-885c-86eff90a0ced
+https://app.seekpass.co/career-passport/licences-and-registrations?credential=workingWithChildrenRegistration
+https://app.seekpass.co/career-passport/recommended?showCredentialModal=true
+https://app.seekpass.co/certsy-a1/collect?ag=0&ca=1&cookie=1&e_a=locale auto assigned&e_c=user lifecycle&e_n=en&fla=1&h=14&idsite=1&java=0&m=50&pdf=1&pv_id=sky3H2&qt=0&r=570876&realp=0&rec=1&res=1440x900&s=51&send_image=0&uadata={}&url=https://app.certsy.com/sign-in&wma=0
+https://app.seekpass.co/certsy-a1/collect?pf_dm1=4048&pf_dm2=8822&pf_net=0&pf_onl=8&pf_srv=1044&pf_tfr=0&ping=1
+https://app.seekpass.co/certsy-a1/collect?action_name=Certsy
+https://app.seekpass.co/certsy-a1/collect?fa_ef=email&fa_fields=[{"fa_fts":1591,"fa_fht":1591,"fa_fb":false,"fa_fn":"email","fa_fch":1,"fa_ff":1,"fa_fd":0,"fa_fcu":0,"fa_ft":"email","fa_fs":20}]&fa_ht=33624&fa_lf=email&fa_st=1&fa_su=1&fa_ts=2843&fa_tts=2843&fa_vid=2DTITg
+https://app.seekpass.co/certsy-a1/collect?fa_fv=1
+https://app.seekpass.co/certsy-a1/collect?dimension1=d4bc733a245b30d70238a5798f252618e7acb891bc591ad8e94c5d6218313124
+https://app.seekpass.co/certsy-a1/collect?urlref=https://web.archive.org/web/20221015000000*/https://app.certsy.com/account-settings
+https://app.seekpass.co/certsy-a1/collect?fa_pv=1
+https://app.seekpass.co/consent?from=/digital-identity/start?
+https://app.seekpass.co/data-sharing/partner/seek?connected=true&partner=seek&shouldRefetch=true
+https://app.seekpass.co/education/e6086f2f-f1d8-4fc5-a6a3-6a20077488f1/select-university?reviewing=true
+https://app.seekpass.co/oauth/authorize?client_id=0531bfb75a98cd778049762a3a9c1fd32a5b40e6434fef7be701d70448ea805c&redirect_uri=https://www.seek.com.au/certsy/link/&scope=read.ping.value read.digital_identity._all&response_type=code&certsy_result=true
+https://app.seekpass.co/oauth/error?error=clash_seek_certsy&error_description=Your SEEK account is already linked to another Certsy account
+https://app.seekpass.co/partner/verify/digitalIdentity?clientId=963266fbwtvbwrg34h35r
+https://app.seekpass.co/partner/verify/digitalIdentity?requestId=fa651300-b91a-49cb-8ee7-cac68b3fdf74\\
+https://app.seekpass.co/sign-out-redirect?reason=inactivity
+https://app.seekpass.co/transit?transition_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjZiOGJlZmQyY2Y3MDBiNjQ3YjI4ZTlhZWMyNWIzZjhkLjIwMjUxMTI2In0.eyJlbWFpbCI6ImhhbWlzaC5waGlsaXBzQGhvdG1haWwuY29tIiwic3ViIjoiYXV0aDB8M2UwMTI1YTZlNGVmZDU3ZmExNzQ4NmM3MzM0MWE3OGEiLCJwcm9kdWN0Ijoic2VlayIsImlhdCI6MTc3OTE3MjY1OH0.liwB7qtKk2TAuzzQfbWgGzv11xv0algWrTncx6O3rCv4AqFyDyOmXzCugr5dmku8SzikAm8Nxu22WAb4LJu5NEaoKdv7KY3RkYDWpuk_bIEMwOtwBLz_U__H7_rOtzmxaJdIa5wi-jdiZs-gEzh_VOVRl3-VhsN4UrjV_wiCj_jM6Rhu0ay4gyw7LGdeYv-ReURhgyr9U72iRIJDDDIwcqs6imeGiHNthuAtatlZnMdJLt8WtPGRLz_7H7qVOYw8Y_kS3rhjTyl-dNpp5o5MU4qLzDk7kM__GbX0yqJBG3amcYdFh2F8WICSx0O15OTAaowohBUyOk92Yl8neRQoYayimP1w6XcgyHsq81GgueK0qASgr9ELqhkSxDq_GblNoHELQGd80IQ8aS8O6fqU0HNN62oOS0RSYN6pOCH4dkoyOJKpnU8tlmVd_AFoRbmpA55iNCewMw_M1P5mp6Y_jSOmkZOhGrhdMcDEkVAMWrxrODFRNgPp2zCmkA1oQvFsHW8E5X7rQ0fgjihEoro4hZPR-VcYKXZdd763d6e3kuwX4ZrxDiwPLrrG3_KysgLeCbLrLb9kudO9CZWxxx1mIlf1hoAES85JLXCDDlxFAcnKS9kc0H97qNQXYhmI5sWvDSYuRDrxwisJJKcCu8BJXXMiJTCYrD3ih-jEDFi-irc&redirectTo=https://app.seekpass.co/career-history/start?utm_source=seek&utm_medium=referral&utm_campaign=profile-verify&utm_content=career-history&product=seekpass&language=en-AU&da_cdt=tempAcqSessionId_1779172617581-tempAcqVisitorId_947ab31b123f4ef2a9153f43629e2e79
+https://business.seekpass.co/?mtm_campaign=gtm-covid&mtm_kwd=sme&mtm_medium=email&mtm_source=seek
+https://help.seekpass.co/access/unauthenticated?return_to=https://help.seekpass.co/hc/
+https://help.seekpass.co/auth/v3/signin?role=end_user&brand_id=7425407
