@@ -1,0 +1,21 @@
+http://www.korta.is:80/?i=2&b=4,358&offset=&offsetplace=&expand=1
+http://korta.is/?layout=edit&id=83
+http://korta.is/?lang=is
+https://www.korta.is/?wc-ajax=%%endpoint%%
+http://korta.is/captcha_code_file.php?rand=1005729411
+https://www.korta.is/cart/?add-to-cart=1112
+https://www.korta.is/cart/?remove_item=333ac5d90817d69113471fbb6e531bee
+https://www.korta.is/cart/?removed_item=1
+http://www.korta.is:80/Forsida/Frettir/Frett/view.aspx?NewsID=10
+http://korta.is/index.php/component/k2/item/136-netgreidslur?tmpl=component&print=1
+http://korta.is/index.php/component/mailto/?template=genesis&link=ebf1ece6b6f96a9b0673ab55170e2b1edb0ab735
+http://korta.is/index.php/component/users/?return=aHR0cDovL2tvcnRhLmlzL2luZGV4LnBocC9jb21wb25lbnQvazIvaXRlbS8xOTgtc3RhcmZzbWFkaHVyLW1hbmFkaGFyaW5zLw==
+http://korta.is/index.php?option=com_users
+http://www.korta.is:80/Kortathjonustan/Umokkur/Starfsfolk/?employeeID=1
+http://korta.is/templates/genesis/less/header-4.php?bc=004179&bcd=45555f&bcl=0062b7&bct=a3a3a3&gcc=4cc3e9&occ=df6a24&rcc=ff0000&ycc=ffda3a&pcc=a085c6&bcc=004179&recc=c71c77
+https://www.korta.is/wp-json/oembed/1.0/embed?url=https://www.korta.is/&format=xml
+https://mitt.korta.is/?a=about
+https://netgreidslur.korta.is/?amount=10.00&currency=EUR&merchant=8189937&terminal=50087&description=Thank you for donating to The Spirit of Humanity Forum&checkvaluemd5=fd4a2a9db9f00a39d60df5759202d449&startnewpayment=y
+https://netgreidslur.korta.is/?do=RECURRING&rp_type=S&rp_interval=1&rp_checkvaluemd5=540bb7d6b991ae408e644c3840647228
+https://netgreidslur.korta.is/?key=00ef0f4f5d90fbb07eb4991df2136fec&cancel=True
+https://netgreidslur.korta.is/testing/?button=iframe

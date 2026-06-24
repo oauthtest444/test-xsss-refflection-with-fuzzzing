@@ -1,0 +1,12 @@
+http://www.korta.is:80/
+http://korta.is/
+https://www.korta.is/
+http://korta.is/captcha_code_file.php
+https://www.korta.is/cart/
+http://www.korta.is:80/Forsida/Frettir/Frett/view.aspx
+http://korta.is/index.php
+http://www.korta.is:80/Kortathjonustan/Umokkur/Starfsfolk/
+http://korta.is/templates/genesis/less/header-4.php
+https://mitt.korta.is/
+https://netgreidslur.korta.is/
+https://netgreidslur.korta.is/testing/
