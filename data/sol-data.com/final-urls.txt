@@ -1,0 +1,1 @@
+https://web.sol-data.com/v1/events?X-Partner-ID=SEEK_AU&X-Request-Time=2020-08-03T10:21:53.508Z&X-Client-Version=sol-js/npm-342
