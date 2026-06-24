@@ -1,0 +1,8 @@
+http://demo.opera-mini.net:80/devices/?sort=name&reverse=1
+http://download.opera-mini.net/?act=opts&rnd=2332363659
+http://download.opera-mini.net/?cert=none&tag=mini5&region=en-us
+http://mini5.opera-mini.net/?d.fb.me=
+http://mini5.opera-mini.net/?id=0.facebook.com
+http://mini5cn.opera-mini.net:80/?q=test
+http://mini5resource.opera-mini.net/?vid=0x32d89101253b548b
+https://sitecheck.opera-mini.net/?host=google.com&hdn=B5AsQM9wqPA05lz2stYVKA==

@@ -1,0 +1,6 @@
+http://demo.opera-mini.net:80/devices/
+http://download.opera-mini.net/
+http://mini5.opera-mini.net/
+http://mini5cn.opera-mini.net:80/
+http://mini5resource.opera-mini.net/
+https://sitecheck.opera-mini.net/
