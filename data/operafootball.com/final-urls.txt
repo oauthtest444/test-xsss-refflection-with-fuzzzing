@@ -1,0 +1,19 @@
+https://www.operafootball.com/football-innerweb?publisher_id=875781&country=gb&language=en&uid=TAUnAgtIvsvgkCBOdI2i6pK2mBUdCy9ioMAPhJaK&product=sports_h5&category=m_index
+https://www.operafootball.com/global/en/match/scores?day=20211013
+https://www.operafootball.com/news/48a77eb9220920fr_bf?time=1663697510&page=1&utc=1
+https://api.operafootball.com/us/en/v1/sports/recommended/alltopnews?af_features=15
+https://lite.operafootball.com/blank?newsType=you_may_like&news_entry_id=155f8c24211115en_lr
+http://lite.operafootball.com/detail/sd9f1b9a210914en_ng?switch_country=ng&switch_language=en&exist=country
+https://lite.operafootball.com/en-CM/match/1491725?home_id=119113&away_id=114417&tournament_id=1403205&name=GFK Tikves Kavadarci - FK Struga
+http://lite.operafootball.com/en-SS/league/1459947?cup=true
+http://lite.operafootball.com/en-SS/league/1473824?tab=news
+http://lite.operafootball.com/en-SS/league/3306462?type=results
+http://lite.operafootball.com/en-SS/match/1473480?h2h_tab=away
+http://lite.operafootball.com/en-SS/match/3353174?info_tab=comments
+http://lite.operafootball.com/live?startTs=
+http://lite.operafootball.com/match/comments?matchId=3887472&toppath=live&default=0
+http://lite.operafootball.com/match/comments?team1=Real Betis&team2=Mallorca
+https://lite.operafootball.com/match/table?league=885947&leagueName=Apertura - Costa Rica&gotopath=live
+https://lite.operafootball.com/scores/league/?matchType=res
+http://lite.operafootball.com/scores?ts=1679007600000
+http://lite.operafootball.com/scores?matchPage=0

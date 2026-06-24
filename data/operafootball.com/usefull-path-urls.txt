@@ -1,0 +1,17 @@
+https://www.operafootball.com/football-innerweb
+https://www.operafootball.com/global/en/match/scores
+https://www.operafootball.com/news/48a77eb9220920fr_bf
+https://api.operafootball.com/us/en/v1/sports/recommended/alltopnews
+https://lite.operafootball.com/blank
+http://lite.operafootball.com/detail/sd9f1b9a210914en_ng
+https://lite.operafootball.com/en-CM/match/1491725
+http://lite.operafootball.com/en-SS/league/1459947
+http://lite.operafootball.com/en-SS/league/1473824
+http://lite.operafootball.com/en-SS/league/3306462
+http://lite.operafootball.com/en-SS/match/1473480
+http://lite.operafootball.com/en-SS/match/3353174
+http://lite.operafootball.com/live
+http://lite.operafootball.com/match/comments
+https://lite.operafootball.com/match/table
+https://lite.operafootball.com/scores/league/
+http://lite.operafootball.com/scores
