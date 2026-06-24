@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/SG/EN/JobAds/adslist.asp
+http://www.jobsdb.com:80/SG/EN/jsclip.asp
+http://www.jobsdb.com:80/SG/en/Map/ViewJobLocationMap/
+http://www.jobsdb.com:80/SG/EN/Resources/Preview
+http://www.jobsdb.com:80/SG/EN/Search/JobAdSingleDetail

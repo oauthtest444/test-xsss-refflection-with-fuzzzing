@@ -1,0 +1,5 @@
+https://hk.jobsdb.com/jobs-in-legal
+https://hk.jobsdb.com/jobs-in-sport-recreation/fitness-personal-training
+https://hk.jobsdb.com/jobs
+https://hk.jobsdb.com/oauth/callback
+https://hk.jobsdb.com/oauth/login

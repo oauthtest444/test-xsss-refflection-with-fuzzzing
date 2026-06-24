@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/au/EN/adsdetails.asp
+http://www.jobsdb.com/AU/EN/ASP/ForwardPage/ForwardPage.asp
+http://www.jobsdb.com:80/AU/EN/corporate/EmpLogin.asp
+http://www.jobsdb.com:80/AU/EN/corporate/EmpOnlineReg.asp
+http://www.jobsdb.com:80/AU/EN/corporate/EmpTalent.asp

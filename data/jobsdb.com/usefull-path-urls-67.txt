@@ -1,0 +1,5 @@
+http://sg.dimension.jobsdb.com:80/career/CJOL/LoginFail.asp
+http://sg.dimension.jobsdb.com:80/career/CJOL/LoginSuccess.asp
+http://sg.dimension.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://sg.dimension.jobsdb.com/career/Common/MsgBox/Alert.asp
+http://sg.dimension.jobsdb.com:80/career/Common/MsgBox/Confirm.asp

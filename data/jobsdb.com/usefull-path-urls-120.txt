@@ -1,0 +1,5 @@
+http://preview.microsite.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://sg.preview.microsite.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://th.preview.microsite.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://th.preview.microsite.jobsdb.com:80/admin/Login/XML_Login.asp
+http://th.preview.microsite.jobsdb.com:80/home/URLmapping.asp

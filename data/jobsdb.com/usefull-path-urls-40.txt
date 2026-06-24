@@ -1,0 +1,5 @@
+http://mycef08.careerfair.jobsdb.com:80/home/URLmapping.asp
+http://sgce08.careerfair.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://sgce08.careerfair.jobsdb.com:80/admin/Login/XML_Login.asp
+http://sgce08.careerfair.jobsdb.com:80/career/CJOL/LoginFail.asp
+http://sgce08.careerfair.jobsdb.com:80/career/Common/MsgBox/Alert.asp

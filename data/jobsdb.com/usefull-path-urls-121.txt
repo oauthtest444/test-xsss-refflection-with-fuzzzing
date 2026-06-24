@@ -1,0 +1,5 @@
+http://sg.microsite.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://sg.microsite.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://sg.microsite.jobsdb.com:80/career/Common/MsgBox/Confirm.asp
+http://sg.microsite.jobsdb.com:80/career/default.asp
+http://sg.microsite.jobsdb.com:80/career/Default.asp

@@ -1,0 +1,5 @@
+http://cn.backoffice.dimension.jobsdb.com:80/Common/MsgBox/Kernel.asp
+http://preview.backoffice.dimension.jobsdb.com:80/Admin/Login/XML_Login.asp
+http://preview.backoffice.dimension.jobsdb.com:80/BackOffice/Login/XML_Login.asp
+http://preview.backoffice.dimension.jobsdb.com:80/Common/MsgBox/Kernel.asp
+http://test.backoffice.dimension.jobsdb.com:80/SiteMap/Company.asp

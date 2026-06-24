@@ -1,0 +1,5 @@
+http://hk.88db.jobsdb.com:80/HK/Views/loginNRegister.aspx
+http://hk.88db.jobsdb.com:80/hk/views/memberinfo.aspx
+http://hk.88db.jobsdb.com:80/HK/views/memberInfo.aspx
+http://hk.88db.jobsdb.com/hk/views/NonSpecialListing.aspx
+http://hk.88db.jobsdb.com:80/HK/views/ShowKnowledge.aspx

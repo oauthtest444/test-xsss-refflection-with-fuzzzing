@@ -1,0 +1,5 @@
+http://cef2011.careerfair.jobsdb.com:80/career/default.asp
+http://sgce08.files.careerfair.jobsdb.com:80/file/Resume/ResumeForm/ProgressBar.asp
+http://sgce08.files.careerfair.jobsdb.com:80/home/URLmapping.asp
+http://hkcamp07.careerfair.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://hkcamp07.careerfair.jobsdb.com:80/career/Common/MsgBox/Alert.asp

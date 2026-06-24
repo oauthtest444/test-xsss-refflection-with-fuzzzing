@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/HK/EN/V6/JS/Login/Login.asp
+http://www.jobsdb.com:80/HK/EN/V6/JS/VideoResume/VideoResume.asp
+http://www.jobsdb.com:80/HK/EN/V6/OutsideJobsDB.asp
+http://www.jobsdb.com:80/HK/EN/
+http://www.jobsdb.com:80/HK/rss.asp

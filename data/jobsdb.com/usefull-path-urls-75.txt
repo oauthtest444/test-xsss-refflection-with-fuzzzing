@@ -1,0 +1,5 @@
+http://th.dimension.jobsdb.com:80/career/JobList.asp
+http://th.dimension.jobsdb.com:80/career/ResumeForm/UploadCallBack.asp
+http://th.dimension.jobsdb.com:80/career/TermsAndConditions/TermsCondition.asp
+http://th.dimension.jobsdb.com:80/home/URLmapping.asp
+http://th.dimension.jobsdb.com/home/URLmapping.asp

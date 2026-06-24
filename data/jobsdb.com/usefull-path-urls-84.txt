@@ -1,0 +1,5 @@
+https://hk.jobsdb.com/contact-us
+https://hk.jobsdb.com/delivery/afr.php
+https://hk.jobsdb.com/delivery/ajs.php
+https://hk.jobsdb.com/delivery/avw.php
+http://hk.jobsdb.com:80/delivery/ck.php

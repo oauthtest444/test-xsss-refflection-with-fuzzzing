@@ -1,0 +1,5 @@
+http://career.jobsdb.com/career/Default.asp
+http://career.jobsdb.com:80/home/URLmapping.asp
+http://career.jobsdb.com/home/URLmapping.asp
+http://career.jobsdb.com/URLmapping.asp
+http://my.career.jobsdb.com:80/home/URLmapping.asp

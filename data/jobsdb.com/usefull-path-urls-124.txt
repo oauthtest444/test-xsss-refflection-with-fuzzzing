@@ -1,0 +1,5 @@
+http://my.jobsdb.com/MY/en/Search/FindJobs
+http://my.jobsdb.com:80/MY
+http://my.jobsdb.com:80/MY/
+http://ph.jobsdb.com:80/PH/en/BotDetection/ClientVerification
+http://ph.jobsdb.com:80/PH/EN/Rss/ResourceRssFeed

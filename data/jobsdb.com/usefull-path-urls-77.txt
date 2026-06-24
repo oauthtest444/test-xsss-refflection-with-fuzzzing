@@ -1,0 +1,5 @@
+http://test.www.dimension.jobsdb.com:80/Common/MsgBox/Alert.asp
+http://test.www.dimension.jobsdb.com:80/default.asp
+http://dm.jobsdb.com:80/home/URLmapping.asp
+http://edms.jobsdb.com/intimate/tracker/content_path/messageId_136543353/logEnabled_true/trackerType_0/
+https://cloud.email.jobsdb.com/CP_ThankYou

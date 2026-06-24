@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/SG/EN/ASP/MFJ/Biz/Biz.asp
+http://www.jobsdb.com:80/SG/EN/ASP/MFJ/Eng/Eng.asp
+http://www.jobsdb.com:80/SG/EN/ASP/MFJ/IT/IT.asp
+http://www.jobsdb.com:80/SG/EN/default.asp
+http://www.jobsdb.com:80/SG/EN/Job.asp

@@ -1,0 +1,5 @@
+https://hk.jobsdb.com/oauth/login/
+https://hk.jobsdb.com/oauth/signin-confirmation/
+https://hk.jobsdb.com/oauth/signin-confirmation
+https://hk.jobsdb.com/Relationship,-Service-jobs-in-banking-financial-services
+https://hk.jobsdb.com/salary-guide-zh/wp-admin/admin-ajax.php

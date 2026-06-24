@@ -1,0 +1,5 @@
+http://th.88db.jobsdb.com:80/th/views/Included/SlideShowImage.aspx
+http://th.88db.jobsdb.com:80/th/views/ShowSearchResult.aspx
+http://adman.jobsdb.com:80/cms/listAds.jsp
+http://au.jobsdb.com:80/AU/en/MyJobsDB/JobAlertsList
+http://au.jobsdb.com/au

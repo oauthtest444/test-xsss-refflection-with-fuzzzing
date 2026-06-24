@@ -1,0 +1,5 @@
+http://www.jobsdb.com/D3/EN/Job.asp
+http://www.jobsdb.com:80/D3/EN/V6/JS/Login/Login.asp
+http://www.jobsdb.com:80/D3/EN/V6/JS/QuickApply/QuickApply.asp
+http://www.jobsdb.com:80/default.asp
+http://www.jobsdb.com:80/fbin/viewdict

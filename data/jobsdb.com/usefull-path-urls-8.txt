@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/AU/EN/Webflow/PopUp
+http://www.jobsdb.com:80/AU/rss.asp
+http://www.jobsdb.com:80/Australia
+https://www.jobsdb.com/browser-upgrade/
+https://www.jobsdb.com/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1

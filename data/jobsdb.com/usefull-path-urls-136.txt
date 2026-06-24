@@ -1,0 +1,5 @@
+http://campus.sg.jobsdb.com:80/SG/xmlrpc.php
+http://careerexpo.sg.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://careerexpo.sg.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://careerexpo.sg.jobsdb.com:80/career/default.asp
+http://careerexpo.sg.jobsdb.com:80/recruiter/Login/XML_Login.asp

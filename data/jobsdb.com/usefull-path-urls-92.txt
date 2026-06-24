@@ -1,0 +1,5 @@
+http://hk.jobsdb.com:80/HK/EN/JobSeeker/UnsubscribeEmailsSuccess
+https://hk.jobsdb.com/hk/en/login/jobseekerlogin
+https://hk.jobsdb.com/HK/en/Login/JobSeekerLogin
+https://hk.jobsdb.com/hk/en/MyJobsDB/ApplictationHistoryList
+http://hk.jobsdb.com:80/HK/en/Rss/JobListing

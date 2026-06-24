@@ -1,0 +1,5 @@
+http://cn.dimension.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://cn.dimension.jobsdb.com:80/admin/Login/XML_Login.asp
+http://cn.dimension.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://cn.dimension.jobsdb.com:80/career/Common/MsgBox/Confirm.asp
+http://cn.dimension.jobsdb.com:80/career/Default.asp

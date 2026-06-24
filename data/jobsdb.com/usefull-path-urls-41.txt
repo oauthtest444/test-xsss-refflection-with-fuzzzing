@@ -1,0 +1,5 @@
+http://sgce08.careerfair.jobsdb.com:80/career/default.asp
+http://sgce08.careerfair.jobsdb.com:80/career/Default.asp
+http://sgce08.careerfair.jobsdb.com:80/career/ErrorPage/ErrorPage.asp
+http://sgce08.careerfair.jobsdb.com:80/career/ResumeForm/UploadCallBack.asp
+http://sgce08.careerfair.jobsdb.com:80/home/URLmapping.asp

@@ -1,0 +1,5 @@
+http://sg.career.jobsdb.com/home/URLmapping.asp
+http://th.career.jobsdb.com:80/home/URLmapping.asp
+http://careerfair.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://careerfair.jobsdb.com:80/career/default.asp
+http://careerfair.jobsdb.com:80/career/Default.asp

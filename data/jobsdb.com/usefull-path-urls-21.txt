@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/PH/EN/Search/FindJobs
+http://www.jobsdb.com:80/PH/en/Search/JobAdSingleDetail
+http://www.jobsdb.com:80/PH/EN/static.php
+http://www.jobsdb.com:80/PH/EN/V6/Employer/ViewResume/ViewFullDirect.asp
+http://www.jobsdb.com:80/PH/EN/V6/JS/JobSearch/JobSearch.asp

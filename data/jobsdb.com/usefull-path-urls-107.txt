@@ -1,0 +1,5 @@
+http://id.jobsdb.com/ID/EN/Search/MyJobsDBViewJob
+http://id.jobsdb.com:80/ID/EN/V6/JS/Home/Home.asp
+http://id.jobsdb.com:80/id/EN/V6/JS/JobSearch/hd.php
+http://id.jobsdb.com:80/ID/EN/V6/JS/JobSearch/JobSearch.asp
+http://id.jobsdb.com:80/ID/EN/V6HTML/Home/

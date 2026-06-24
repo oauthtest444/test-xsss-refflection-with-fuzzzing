@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/HK/EN/Search/SetCookie
+http://www.jobsdb.com/HK/EN/V6/cobrand/1024/JobSearch.asp
+http://www.jobsdb.com:80/HK/EN/V6/Cobrand/HKGov/JobSearch.asp
+http://www.jobsdb.com:80/HK/EN/V6/cobrand/JobSearch.asp
+http://www.jobsdb.com:80/hk/EN/V6/cobrand/JobSearch.asp

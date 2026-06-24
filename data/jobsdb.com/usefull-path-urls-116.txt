@@ -1,0 +1,5 @@
+http://mail.jobsdb.com:80/exchange/logon.asp
+http://mail.jobsdb.com:80/exchange/root.asp
+http://microsite.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://microsite.jobsdb.com:80/admin/Login/XML_Login.asp
+http://microsite.jobsdb.com:80/career/CJOL/LoginFail.asp

@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/cgi-bin/MMOnline.dll/portal/ep/content/footer/footerHtmls.jsp
+http://www.jobsdb.com:80/cgi-bin/redir.pl
+http://www.jobsdb.com:80/D2/EN/V6/Employer/Logout/Logout.asp
+http://www.jobsdb.com:80/D2/EN/V6/JS/Login/Login.asp
+http://www.jobsdb.com:80/D3/EN/Job.asp

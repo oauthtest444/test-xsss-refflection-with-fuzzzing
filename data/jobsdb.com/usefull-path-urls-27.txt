@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/vjf/china/gb/CompanyDetails.asp
+http://www.jobsdb.com:80/vjf/jobsdb/en/_PremiumExhibitors.asp
+http://88db.jobsdb.com:80/HK/views/Included/getImage.aspx
+http://88db.jobsdb.com:80/hk/views/loginNRegister.aspx
+http://88db.jobsdb.com:80/hk/views/ShowSearchResult.aspx

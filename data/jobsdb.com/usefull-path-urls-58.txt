@@ -1,0 +1,5 @@
+http://cn.files.dimension.jobsdb.com/file/DownloadFile/ViewFile.asp
+http://cn.files.dimension.jobsdb.com/home/URLmapping.asp
+http://preview.files.dimension.jobsdb.com/file/DownloadFile/ViewFile.asp
+http://preview.files.dimension.jobsdb.com:80/home/URLmapping.asp
+http://sg.files.dimension.jobsdb.com:80/home/URLmapping.asp

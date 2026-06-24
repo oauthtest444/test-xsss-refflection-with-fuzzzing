@@ -1,0 +1,5 @@
+http://learning.sg.jobsdb.com:80/sg/enquiry
+http://learning.sg.jobsdb.com:80/sg/node
+http://learning.sg.jobsdb.com:80/sg/view_course_col
+https://somtrdc.jobsdb.com/id
+https://th.jobsdb.com/

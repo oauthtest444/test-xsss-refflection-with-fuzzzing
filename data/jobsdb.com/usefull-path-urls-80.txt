@@ -1,0 +1,5 @@
+http://careers.fedex.jobsdb.com/home/URLmapping.asp
+http://dimension.fedex.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://dimension.fedex.jobsdb.com:80/admin/Login/XML_Login.asp
+http://dimension.fedex.jobsdb.com:80/home/URLmapping.asp
+https://hk.jobsdb.com/%E5%85%BC%E8%81%B7-jobs

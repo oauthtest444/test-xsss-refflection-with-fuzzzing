@@ -1,0 +1,5 @@
+http://id.jobsdb.com:80/ID/EN/V6HTML/Microsite/Indovision/sending.asp
+http://id.jobsdb.com:80/ID/ID/Job/ApplyJobSuccess
+http://id.jobsdb.com:80/ID/ID/Job/NonMemberApplication
+http://id.jobsdb.com:80/ID/id/Rss/JobListing
+https://id.jobsdb.com/ID/ID/Search/FindJobs

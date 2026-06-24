@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/SG/EN/V6/JS/JobSearch/JobSearch.asp
+http://www.jobsdb.com:80/SG/EN/V6/OutsideJobsDB.asp
+http://www.jobsdb.com:80/SG/EN/V6HTML/Home/
+http://www.jobsdb.com:80/SG/EN/
+http://www.jobsdb.com:80/SG/rss.asp

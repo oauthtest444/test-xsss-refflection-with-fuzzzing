@@ -1,0 +1,5 @@
+https://hkha.dimension.jobsdb.com/home/URLmapping.asp
+http://jrm.dimension.jobsdb.com:80/JRM/Login/Login.aspx
+http://microsite.dimension.jobsdb.com:80/career/CJOL/LoginFail.asp
+http://microsite.dimension.jobsdb.com:80/home/URLmapping.asp
+http://preview.dimension.jobsdb.com:80/_lib/MsgBox/Kernel.asp

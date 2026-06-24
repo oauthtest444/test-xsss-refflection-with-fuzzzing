@@ -1,0 +1,5 @@
+http://hkcamp07.careerfair.jobsdb.com:80/career/Default.asp
+http://jobpride.careerfair.jobsdb.com:80/admin/Login/XML_Login.asp
+http://myce07.careerfair.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://myce07.careerfair.jobsdb.com:80/career/default.asp
+http://myce07.careerfair.jobsdb.com:80/career/Default.asp

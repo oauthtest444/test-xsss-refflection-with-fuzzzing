@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/hk/alien/finet/hotjobs.asp
+http://www.jobsdb.com:80/hk/content/javascript/tiny_mce/plugins/iespell/aspspellcheck/ASPSpellCheck.asp
+http://www.jobsdb.com:80/HK/EN/adspostresume.asp
+http://www.jobsdb.com:80/HK/EN/ASP/HRtest.asp
+http://www.jobsdb.com:80/HK/EN/corporate/EmpLogin.asp

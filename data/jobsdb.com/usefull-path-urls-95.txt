@@ -1,0 +1,5 @@
+https://hk.jobsdb.com/HK/en/Search/JobAdSingleDetail
+http://hk.jobsdb.com/HK/EN/Search/JobAdSingleDetail
+http://hk.jobsdb.com/hk/en/search/jobadsingledetail
+http://hk.jobsdb.com/HK/EN/V6/JS/JobSearch/JobSearch.asp
+https://hk.jobsdb.com/hk/en/Webflow/PopUpJobApplicationExternalLink

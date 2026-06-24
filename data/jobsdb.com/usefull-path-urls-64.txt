@@ -1,0 +1,5 @@
+http://sg.preview.dimension.jobsdb.com:80/admin/Login/XML_Login.asp
+http://sg.preview.dimension.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://sg.preview.dimension.jobsdb.com:80/career/Default.asp
+http://sg.preview.dimension.jobsdb.com:80/career/default.asp
+http://sg.preview.dimension.jobsdb.com:80/career/Job.asp

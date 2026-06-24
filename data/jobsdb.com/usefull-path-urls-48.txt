@@ -1,0 +1,5 @@
+http://dimension.jobsdb.com/career/ErrorPage/ErrorPage.asp
+http://dimension.jobsdb.com:80/career/ForgetPwd/ForgetPwd.asp
+http://dimension.jobsdb.com:80/career/Help/Help.asp
+http://dimension.jobsdb.com:80/career/Intranet/default.asp
+http://dimension.jobsdb.com:80/career/Job.asp

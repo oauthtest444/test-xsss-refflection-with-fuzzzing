@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/HK/EN/index_cli
+http://www.jobsdb.com:80/HK/EN/Job.asp
+http://www.jobsdb.com:80/HK/EN/Job/NonMemberApplication
+http://www.jobsdb.com:80/HK/EN/JobAds/adslist.asp
+http://www.jobsdb.com:80/HK/EN/JobAds/adslist_Country.asp

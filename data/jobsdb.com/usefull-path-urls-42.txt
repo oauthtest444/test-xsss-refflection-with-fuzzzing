@@ -1,0 +1,5 @@
+http://sgce08.careerfair.jobsdb.com:80/recruiter/Login/Login.asp
+http://sgce08.careerfair.jobsdb.com:80/recruiter/Login/XML_Login.asp
+http://sgce08.careerfair.jobsdb.com:80/sitemap/Company.asp
+http://sgce08.careerfair.jobsdb.com:80/Sitemap/Company.asp
+http://sgce09.careerfair.jobsdb.com:80/career/CJOL/LoginFail.asp

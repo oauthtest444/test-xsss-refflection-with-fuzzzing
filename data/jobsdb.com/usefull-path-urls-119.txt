@@ -1,0 +1,5 @@
+http://microsite.jobsdb.com:80/career/ResumeForm/UploadCallBack.asp
+http://microsite.jobsdb.com:80/file/DownloadFile/DownloadFromDB.asp
+http://microsite.jobsdb.com:80/home/URLmapping.asp
+http://microsite.jobsdb.com/home/URLmapping.asp
+http://files.microsite.jobsdb.com/file/DownloadFile/ViewFile.asp

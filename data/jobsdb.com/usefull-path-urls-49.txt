@@ -1,0 +1,5 @@
+https://dimension.jobsdb.com/career/Job.asp
+http://dimension.jobsdb.com/career/Job.asp
+http://dimension.jobsdb.com:80/career/Joblist.asp
+http://dimension.jobsdb.com:80/career/JobsDB/LoginFail.asp
+http://dimension.jobsdb.com/career/Login/Login_Submit.asp

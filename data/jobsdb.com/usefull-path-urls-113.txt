@@ -1,0 +1,5 @@
+http://m.jobsdb.com/en-hk/js_xhtml.do
+https://m.jobsdb.com/en-hk/js_xhtml.do
+https://m.jobsdb.com/en-hk/login.do
+http://m.jobsdb.com:80/en-hk/message.do
+https://m.jobsdb.com/en-hk/search.do

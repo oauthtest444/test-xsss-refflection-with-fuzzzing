@@ -1,0 +1,5 @@
+http://web3.careerfair.jobsdb.com:80/career/default.asp
+http://web3.careerfair.jobsdb.com:80/SiteMap/Company.asp
+http://counter.jobsdb.com:80/monitor/default.asp
+http://www.dimension.jobsdb.com:80/
+http://dimension.jobsdb.com:80/_lib/MsgBox/Kernel.asp

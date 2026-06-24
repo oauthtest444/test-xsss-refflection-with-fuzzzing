@@ -1,0 +1,5 @@
+http://id.jobsdb.com/ID
+https://id.jobsdb.com/ID
+http://id.jobsdb.com:80/Indonesia
+http://id.jobsdb.com:80/results.asp
+http://idce2009.jobsdb.com:80/career/CJOL/LoginFail.asp

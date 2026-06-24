@@ -1,0 +1,5 @@
+http://sg.microsite.jobsdb.com/home/URLmapping.asp
+http://sg.microsite.jobsdb.com:80/home/URLmapping.asp
+http://th.microsite.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://th.microsite.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://th.microsite.jobsdb.com:80/career/Common/MsgBox/Confirm.asp

@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/HK/EN/Resources/EmployerArticle/AW_H1N1vaccine
+http://www.jobsdb.com:80/HK/en/Rss/JobListing
+http://www.jobsdb.com:80/HK/EN/Search/FindJobs
+http://www.jobsdb.com:80/HK/en/Search/FindJobs
+http://www.jobsdb.com:80/HK/EN/Search/JobAdSingleDetail

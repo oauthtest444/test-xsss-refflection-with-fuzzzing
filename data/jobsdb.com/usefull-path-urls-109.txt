@@ -1,0 +1,5 @@
+http://id.jobsdb.com:80/ID/ID/Search/FindJobs
+http://id.jobsdb.com/ID/id/Search/JobAdSingleDetail
+http://id.jobsdb.com/id/JobListingWgt/MiniWidget
+http://id.jobsdb.com/ID/JobListingWgt/MiniWidget
+http://id.jobsdb.com:80/ID/JobListingWgt/Service

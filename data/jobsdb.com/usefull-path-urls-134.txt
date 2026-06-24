@@ -1,0 +1,5 @@
+http://sg.jobsdb.com:80/SG/en/BotDetection/ClientVerification
+http://sg.jobsdb.com:80/sg/en/job/business-management-specialist-400003003132141
+http://sg.jobsdb.com:80/sg/en/job/customer-business-executive-400003003232373
+http://sg.jobsdb.com:80/sg/en/job/customer-service-executive-400003003277595
+http://sg.jobsdb.com:80/sg/en/job/training-support-coordinator-400003003100609

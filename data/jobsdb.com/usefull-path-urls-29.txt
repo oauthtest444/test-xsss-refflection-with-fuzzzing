@@ -1,0 +1,5 @@
+http://88db.jobsdb.com:80/ph/Views/submitPost_selectCategory.aspx
+http://hk.88db.jobsdb.com:80/hk/views/Included/GetMedia.aspx
+http://hk.88db.jobsdb.com:80/hk/Views/Included/PreRenderCategoryList.aspx
+http://hk.88db.jobsdb.com:80/HK/views/landingpage.aspx
+http://hk.88db.jobsdb.com:80/hk/Views/ListDiscussionReply.aspx

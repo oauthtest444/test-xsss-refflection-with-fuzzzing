@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/ID/EN/default.asp
+http://www.jobsdb.com:80/ID/EN/MyjobsDB/Tips.asp
+http://www.jobsdb.com:80/IN/EN/
+http://www.jobsdb.com:80/MY/EN/V6/OutsideJobsDB.asp
+http://www.jobsdb.com:80/MY/EN/V6HTML/Home/

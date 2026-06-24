@@ -1,0 +1,5 @@
+http://rms.jobsdb.com:80/HK/EN/EmployerVisitor/RMS
+http://rms.jobsdb.com:80/HK/en/Search/JobAdSingleDetail
+http://rms.jobsdb.com:80/PH/EN/CandidateManagement/CandidateManagement2
+http://rms.jobsdb.com:80/PH/EN/CandidateSearch/ViewCandidateResume
+http://rms.jobsdb.com:80/PH/EN/Employer/JobAdBuilderSuccess

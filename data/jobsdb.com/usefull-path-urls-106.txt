@@ -1,0 +1,5 @@
+https://id.jobsdb.com/ID/en/Map/ViewJobLocationMap
+http://id.jobsdb.com:80/ID/EN/play.php
+http://id.jobsdb.com:80/ID/en/Rss/JobListing
+http://id.jobsdb.com:80/ID/EN/Search/FindJobs
+http://id.jobsdb.com/ID/EN/Search/FindJobs

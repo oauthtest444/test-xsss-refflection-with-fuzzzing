@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/PH/EN/V6/JS/Login/Login.asp
+http://www.jobsdb.com:80/PH/EN/VR.asp
+http://www.jobsdb.com:80/PH/Partner/adslist.asp
+http://www.jobsdb.com:80/rotation.jsp
+http://www.jobsdb.com/SG/EN/ASP/ForwardPage/ForwardPage.asp

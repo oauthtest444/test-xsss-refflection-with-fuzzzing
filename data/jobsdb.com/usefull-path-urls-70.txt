@@ -1,0 +1,5 @@
+http://sg.dimension.jobsdb.com:80/career/Job.asp
+http://sg.dimension.jobsdb.com/career/Job.asp
+http://sg.dimension.jobsdb.com/career/PrivacyStatement/PrivacyCondition.asp
+http://sg.dimension.jobsdb.com:80/career/ResumeForm/UploadCallBack.asp
+http://sg.dimension.jobsdb.com/career/TermsAndConditions/TermsCondition.asp

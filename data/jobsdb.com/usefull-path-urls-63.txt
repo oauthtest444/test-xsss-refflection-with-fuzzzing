@@ -1,0 +1,5 @@
+http://preview.dimension.jobsdb.com:80/career/Default.asp
+http://preview.dimension.jobsdb.com:80/home/URLmapping.asp
+http://cn.preview.dimension.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://cn.preview.dimension.jobsdb.com:80/admin/Login/XML_Login.asp
+http://sg.preview.dimension.jobsdb.com:80/_lib/MsgBox/Kernel.asp

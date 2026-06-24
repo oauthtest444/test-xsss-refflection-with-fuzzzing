@@ -1,0 +1,5 @@
+http://dimension.jobsdb.com:80/recruiter/Login/Login.asp
+http://dimension.jobsdb.com:80/recruiter/Login/XML_Login.asp
+http://backoffice.dimension.jobsdb.com:80/BackOffice/Login/XML_Login.asp
+http://backoffice.dimension.jobsdb.com:80/Common/MsgBox/Kernel.asp
+http://cn.backoffice.dimension.jobsdb.com:80/BackOffice/Login/XML_Login.asp

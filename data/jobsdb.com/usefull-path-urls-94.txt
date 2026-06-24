@@ -1,0 +1,5 @@
+http://hk.jobsdb.com/HK/en/Search/Findjobs
+http://hk.jobsdb.com/HK/en/Search/FindJobs
+http://hk.jobsdb.com:80/HK/en/Search/FindJobsByJobAlertId
+http://hk.jobsdb.com:80/hk/EN/Search/FindJobsByJobAlertId
+http://hk.jobsdb.com/hk/en/search/Findjobswidget

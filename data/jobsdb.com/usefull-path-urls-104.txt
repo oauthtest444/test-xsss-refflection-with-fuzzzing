@@ -1,0 +1,5 @@
+https://id.jobsdb.com/ID/EN/Job.asp
+http://id.jobsdb.com:80/ID/EN/Job/NonMemberApplication
+https://id.jobsdb.com/ID/en/JobAlert/GetFooterImage
+http://id.jobsdb.com:80/ID/EN/JobAlert/JobAlertEdit
+http://id.jobsdb.com:80/ID/EN/JobSeeker/js-profile-p1-step2

@@ -1,0 +1,5 @@
+http://ph.jobsdb.com:80/PH
+http://ph.jobsdb.com/ph/
+http://ph.jobsdb.com/PH
+http://premiumsearch.jobsdb.com:80/URLmapping.asp
+http://v6.preview.jobsdb.com:80/AU/EN/HostSearch.asp

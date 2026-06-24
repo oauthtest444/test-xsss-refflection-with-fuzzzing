@@ -1,0 +1,5 @@
+http://dimension.jobsdb.com/career/Common/MsgBox/Alert.asp
+http://dimension.jobsdb.com:80/career/Common/MsgBox/Confirm.asp
+http://dimension.jobsdb.com/career/Common/MsgBox/Confirm.asp
+http://dimension.jobsdb.com:80/career/Default.asp
+http://dimension.jobsdb.com:80/career/default.asp

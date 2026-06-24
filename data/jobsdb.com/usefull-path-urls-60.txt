@@ -1,0 +1,5 @@
+https://hkha.dimension.jobsdb.com/career/Default.asp
+http://hkha.dimension.jobsdb.com:80/career/Default.asp
+https://hkha.dimension.jobsdb.com/career/Job.asp
+http://hkha.dimension.jobsdb.com:80/home/URLmapping.asp
+http://hkha.dimension.jobsdb.com/home/URLmapping.asp

@@ -1,0 +1,5 @@
+http://microsite.jobsdb.com/career/default.asp
+http://microsite.jobsdb.com/career/Default.asp
+http://microsite.jobsdb.com:80/career/Help/Help.asp
+http://microsite.jobsdb.com:80/career/Job.asp
+http://microsite.jobsdb.com:80/career/JobsDB/LoginFail.asp

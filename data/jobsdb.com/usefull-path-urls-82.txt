@@ -1,0 +1,5 @@
+https://hk.jobsdb.com/api/chalice-search/v4/related-search
+https://hk.jobsdb.com/api/chalice-search/v4/search
+https://hk.jobsdb.com/api/jobsearch/v5/count
+https://hk.jobsdb.com/api/jobsearch/v5/search
+https://hk.jobsdb.com/asus-technology-jobs

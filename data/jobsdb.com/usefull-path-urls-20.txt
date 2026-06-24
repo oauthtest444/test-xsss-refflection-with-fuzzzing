@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/MY/EN/
+http://www.jobsdb.com:80/PH/EN/Job.asp
+http://www.jobsdb.com:80/PH/EN/JobSeeker/EditUploadedJsResume
+http://www.jobsdb.com:80/PH/EN/MyJobsDB
+http://www.jobsdb.com:80/PH/EN/Resumes/CandidateMatch

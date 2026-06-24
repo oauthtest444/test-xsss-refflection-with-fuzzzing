@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/AU/EN/JobAds/adslist.asp
+http://www.jobsdb.com:80/AU/EN/JobAds/AdsList_Country.asp
+http://www.jobsdb.com:80/AU/EN/JobAds/JobAds.asp
+http://www.jobsdb.com:80/AU/EN/JobAds/JobAds_frame.asp
+http://www.jobsdb.com:80/AU/EN/JobAds/QuickApply.asp

@@ -1,0 +1,5 @@
+http://dimension.jobsdb.com/career/ResumeForm/Upload.asp
+http://dimension.jobsdb.com:80/career/ResumeForm/Upload.asp
+http://dimension.jobsdb.com:80/career/ResumeForm/UploadCallBack.asp
+http://www.dimension.jobsdb.com:80/Common/MsgBox/Alert.asp
+http://www.dimension.jobsdb.com:80/Default.asp

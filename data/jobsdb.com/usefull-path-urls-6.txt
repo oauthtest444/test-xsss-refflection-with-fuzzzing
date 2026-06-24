@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/AU/en/Search/FindJobs
+http://www.jobsdb.com:80/AU/EN/Search/FindJobs
+http://www.jobsdb.com:80/AU/EN/Search/JobAdSingleDetail
+http://www.jobsdb.com:80/AU/EN/V6/Employer/EmpOnlineReg/EmpOnlineReg.asp
+http://www.jobsdb.com:80/AU/EN/V6/Employer/Login/Login.asp

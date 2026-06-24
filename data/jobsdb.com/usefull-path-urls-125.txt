@@ -1,0 +1,5 @@
+http://ph.jobsdb.com:80/PH/EN/Search/FindJobs
+http://ph.jobsdb.com/PH/EN/Search/JobAdSingleDetail
+http://ph.jobsdb.com:80/PH/EN/Search/SetUpCrossDomainJobChannelVariables
+http://ph.jobsdb.com:80/ph/JobListingWgt/Service
+http://ph.jobsdb.com/ph

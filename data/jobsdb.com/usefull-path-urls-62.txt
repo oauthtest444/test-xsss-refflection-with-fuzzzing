@@ -1,0 +1,5 @@
+http://preview.dimension.jobsdb.com:80/admin/Login/Login.asp
+http://preview.dimension.jobsdb.com:80/admin/Login/XML_Login.asp
+http://preview.dimension.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://preview.dimension.jobsdb.com:80/career/Common/MsgBox/Confirm.asp
+http://preview.dimension.jobsdb.com:80/career/default.asp

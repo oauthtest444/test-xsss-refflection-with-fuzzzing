@@ -1,0 +1,5 @@
+http://th.microsite.jobsdb.com:80/career/default.asp
+http://th.microsite.jobsdb.com/career/Default.asp
+http://th.microsite.jobsdb.com:80/career/Default.asp
+http://th.microsite.jobsdb.com:80/career/Job.asp
+http://th.microsite.jobsdb.com:80/home/URLmapping.asp

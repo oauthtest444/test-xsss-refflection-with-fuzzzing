@@ -1,0 +1,5 @@
+http://88db.jobsdb.com:80/HK/Views/StaticTemplate.aspx
+http://88db.jobsdb.com:80/ph/Views/emailToFriend.aspx
+http://88db.jobsdb.com:80/PH/views/Included/getImage.aspx
+http://88db.jobsdb.com:80/ph/Views/MemberContact.aspx
+http://88db.jobsdb.com:80/ph/Views/postDetails.aspx

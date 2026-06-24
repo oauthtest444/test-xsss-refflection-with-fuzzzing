@@ -1,0 +1,5 @@
+http://careers.fedex.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://careers.fedex.jobsdb.com:80/career/Default.asp
+http://careers.fedex.jobsdb.com:80/career/default.asp
+http://careers.fedex.jobsdb.com:80/career/Job.asp
+http://careers.fedex.jobsdb.com:80/home/URLmapping.asp

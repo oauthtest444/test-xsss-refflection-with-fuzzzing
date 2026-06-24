@@ -1,0 +1,5 @@
+http://idce2009.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://idce2009.jobsdb.com:80/career/default.asp
+http://kr.jobsdb.com:80/KR
+http://m.jobsdb.com:80/en-hk/browse
+http://m.jobsdb.com/en-hk/browse

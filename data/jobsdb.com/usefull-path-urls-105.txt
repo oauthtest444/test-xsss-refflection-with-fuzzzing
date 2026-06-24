@@ -1,0 +1,5 @@
+http://id.jobsdb.com:80/ID/EN/JobSeeker/ResumeUploaderSuccess
+http://id.jobsdb.com:80/ID/en/JobSeeker/UnsubscribeEmails
+http://id.jobsdb.com:80/ID/EN/JobSeeker/UnsubscribeEmailsFailed
+http://id.jobsdb.com:80/ID/EN/level.php
+http://id.jobsdb.com:80/ID/EN/Login/JobSeekerLogin

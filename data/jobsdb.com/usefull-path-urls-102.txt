@@ -1,0 +1,5 @@
+https://help.hk.jobsdb.com/s/sfsites/aura
+https://help.hk.jobsdb.com/s/sfsites/auraCmpDef
+http://id.jobsdb.com/bnr/id/bnr.asp
+http://id.jobsdb.com:80/career/Common/MsgBox/Alert.asp
+http://id.jobsdb.com:80/cgi-bin/openwebmail/openwebmail-send.pl

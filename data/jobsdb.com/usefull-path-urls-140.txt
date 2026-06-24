@@ -1,0 +1,5 @@
+http://th.jobsdb.com:80/th/en/search/findjobs
+http://th.jobsdb.com/th/EN/search/findjobs
+http://th.jobsdb.com/th/en/Search/FindJobs
+https://th.jobsdb.com/TH/EN/Search/JobAdSingleDetail
+http://th.jobsdb.com:80/TH/en/V6/JS/JobSearch/JobSearch.asp

@@ -1,0 +1,5 @@
+http://demo.dimension.jobsdb.com/AttachmentWS/DownloadFile/ViewFile.aspx
+http://demo.dimension.jobsdb.com:80/home/URLmapping.asp
+http://demo.dimension.jobsdb.com/home/URLmapping.asp
+http://files.dimension.jobsdb.com:80/file/DownloadFile/ViewFile.asp
+http://files.dimension.jobsdb.com:80/home/URLmapping.asp

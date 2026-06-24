@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/HK/EN/default.asp
+http://www3.jobsdb.com:80/HK/en/Home/GetAdBannerByFileName
+http://www.jobsdb.com:80/HK/EN/hostads.asp
+http://www.jobsdb.com:80/HK/EN/HostList.asp
+http://www.jobsdb.com:80/HK/EN/index.php

@@ -1,0 +1,5 @@
+http://www.dimension.jobsdb.com:80/default.asp
+http://www.dimension.jobsdb.com/Default.asp
+http://dimension.jobsdb.com/home/URLmapping.asp
+https://dimension.jobsdb.com/home/URLmapping.asp
+http://dimension.jobsdb.com:80/home/URLmapping.asp

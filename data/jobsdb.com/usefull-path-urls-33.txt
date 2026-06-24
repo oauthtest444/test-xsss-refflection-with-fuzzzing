@@ -1,0 +1,5 @@
+http://adelivery.au.jobsdb.com:80/jobsdb-au/adword_rightpanel2.jsp
+http://banner.jobsdb.com:80/AU/Banner/Banner.asp
+http://banner.jobsdb.com/IN/Bnr.asp
+http://banner.jobsdb.com:80/SG/Banner/Banner.asp
+http://adelivery.blr.jobsdb.com:80/in88db-blr/mrotation.jsp

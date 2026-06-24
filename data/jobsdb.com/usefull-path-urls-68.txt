@@ -1,0 +1,5 @@
+http://sg.dimension.jobsdb.com/career/Common/MsgBox/Confirm.asp
+http://sg.dimension.jobsdb.com:80/career/Common/MsgBox/ConfirmToMyCareerWithdraw.asp
+http://sg.dimension.jobsdb.com:80/career/default.asp
+http://sg.dimension.jobsdb.com/career/Default.asp
+http://sg.dimension.jobsdb.com:80/career/Default.asp

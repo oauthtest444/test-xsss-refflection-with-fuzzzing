@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/AU/EN/V6/Employer/Logout/Logout.asp
+http://www.jobsdb.com:80/AU/EN/V6/JS/JobSearch/JobSearch.asp
+http://www.jobsdb.com:80/AU/EN/V6/JS/Login/Login.asp
+http://www.jobsdb.com:80/AU/EN/V6/JS/QuickApply/QuickApply.asp
+http://www.jobsdb.com:80/AU/EN/V6/JS/Registration/Registration.asp

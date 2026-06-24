@@ -1,0 +1,5 @@
+http://sg.dimension.jobsdb.com/home/URLmapping.asp
+http://sg.dimension.jobsdb.com:80/home/URLmapping.asp
+https://sg.dimension.jobsdb.com/home/URLmapping.asp
+http://sg.dimension.jobsdb.com:80/SiteMap/Company.asp
+http://test.dimension.jobsdb.com:80/_lib/MsgBox/Kernel.asp

@@ -1,0 +1,5 @@
+http://m.jobsdb.com:80/en-sg/search.do
+https://m.jobsdb.com/en-th/js_xhtml.do
+http://m.jobsdb.com:80/id-id/search.do
+https://m.jobsdb.com/registration
+http://mail.jobsdb.com:80/exchange/inbox/commands.asp

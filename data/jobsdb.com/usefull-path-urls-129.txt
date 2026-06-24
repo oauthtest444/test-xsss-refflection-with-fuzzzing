@@ -1,0 +1,5 @@
+http://rms.jobsdb.com:80/PH/EN/Employer/RMSMain
+http://sg.preview.dimension.scb.jobsdb.com:80/_lib/MsgBox/Kernel.asp
+http://sg.preview.dimension.scb.jobsdb.com:80/admin/Login/XML_Login.asp
+http://sg.preview.dimension.scb.jobsdb.com:80/home/URLmapping.asp
+http://sg.dimension.scb.jobsdb.com:80/_lib/MsgBox/Kernel.asp

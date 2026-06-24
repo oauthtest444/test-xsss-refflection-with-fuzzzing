@@ -1,0 +1,5 @@
+http://ps.jobsdb.com:80/URLmapping.asp
+http://rms.jobsdb.com:80/EmployerRewards/HK/Front-End/ERROR.aspx
+http://rms.jobsdb.com:80/HK/EN/CandidateSearch/SimpleSearch
+https://rms.jobsdb.com/hk/en/empjobs/job-management
+http://rms.jobsdb.com:80/HK/EN/Employer/JobManagement2

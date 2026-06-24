@@ -1,0 +1,5 @@
+http://hk.88db.jobsdb.com:80/hk/Views/showSearchResultV1.aspx
+http://hk.88db.jobsdb.com:80/hk/Views/submitpost_selectcategory.aspx
+http://ph.88db.jobsdb.com:80/ph/Views/landingpage.aspx
+http://ph.88db.jobsdb.com:80/PH/views/ShowSearchResult.aspx
+http://ph.88db.jobsdb.com:80/PH/views/StaticTemplate.aspx

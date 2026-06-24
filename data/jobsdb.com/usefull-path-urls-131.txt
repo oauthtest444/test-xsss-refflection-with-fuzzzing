@@ -1,0 +1,5 @@
+http://sg.dimension.scb.jobsdb.com:80/career/ResumeForm/UploadCallBack.asp
+http://sg.dimension.scb.jobsdb.com:80/home/URLmapping.asp
+https://sg.jobsdb.com/%2522Hr%2520Focus%2522-jobs-in-Downtown%20Core
+https://sg.jobsdb.com/apply/Game-Programmer-ebb3d12f3809c41b40fb2636d1575be8/success
+https://sg.jobsdb.com/bobarista-jobs-in-Clementi

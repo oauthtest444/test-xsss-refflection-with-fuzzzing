@@ -1,0 +1,5 @@
+https://dimension.jobsdb.com/career/Default.asp
+http://dimension.jobsdb.com/career/Default.asp
+http://dimension.jobsdb.com/career/default.asp
+http://dimension.jobsdb.com:80/career/ErrorPage/ErrorPage.asp
+http://dimension.jobsdb.com:80/Career/ErrorPage/ErrorPage.asp

@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/HK/EN/V6/Employer/Help/Help.asp
+http://www.jobsdb.com:80/HK/EN/V6/Employer/Login/Login.asp
+http://www.jobsdb.com:80/HK/EN/V6/JS/Home/LoadData/LoadData.asp
+http://www.jobsdb.com:80/HK/EN/V6/JS/JobSearch/JobSearch.asp
+http://www.jobsdb.com:80/HK/EN/V6/JS/JobSearch/SEOKeywordJobCat.asp

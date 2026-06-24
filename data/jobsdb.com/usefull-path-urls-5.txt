@@ -1,0 +1,5 @@
+http://www.jobsdb.com:80/AU/EN/JobSeeker/GetResumeUploaderView
+http://www.jobsdb.com:80/AU/EN/MyJobsDB/PersonalProfile.asp
+http://www.jobsdb.com:80/AU/EN/MyjobsDB/Tips.asp
+http://www.jobsdb.com:80/AU/en/navigation/aboutus.asp
+http://www.jobsdb.com:80/AU/EN/Registration.asp
