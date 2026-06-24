@@ -1,0 +1,6 @@
+http://kortathjonustan.is/?lang=is
+http://kortathjonustan.is/captcha_code_file.php?rand=1016548523
+http://kortathjonustan.is/component/content/article?layout=edit&id=50
+http://kortathjonustan.is:80/Forsida/Frettir/Frett/view.aspx?NewsID=11
+http://kortathjonustan.is/index.php?option=com_users
+https://service.kortathjonustan.is/?a=about
