@@ -1,0 +1,5 @@
+https://apexscores.io/_next/image?url=https://oscore.operacdn.com/images/18680.webp&w=32&q=75
+https://apexscores.io/en-gb/football/scores?tab=all
+https://lite.apexscores.io/en/league/3319874?cup=false
+https://lite.apexscores.io/en/league/3795413?country=Germany&name=Bundesliga
+https://lite.apexscores.io/en/match/3800665?home_id=16417&away_id=16416&tournament_id=3799181
