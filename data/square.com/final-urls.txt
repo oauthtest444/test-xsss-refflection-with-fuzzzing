@@ -1,0 +1,1 @@
+https://video.square.com/user/get-details?format=ajax
