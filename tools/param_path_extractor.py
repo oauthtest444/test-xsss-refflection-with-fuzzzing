@@ -16,7 +16,7 @@ def clean_path(url):
     return urlunparse((parsed.scheme, parsed.netloc, path, '', '', ''))
 
 def main():
-    parser = argparse.ArgumentParser(description="Path & Parameter Extractor (Simplified)")
+    parser = argparse.ArgumentParser(description="Path & Parameter Extractor")
     parser.add_argument('-l', '--list', required=True, help='Input URLs list file')
     parser.add_argument('-pv', '--param-value', default='testtt', help='Value for parameters (default: testtt)')
     parser.add_argument('-cp', '--custom-params', help='Custom parameters file (optional)')
@@ -27,7 +27,7 @@ def main():
 
     print("[+] Starting extraction...")
 
-    # STEP 1: Extract params and paths
+    # STEP 1: Extract params and ALL paths (even without query)
     all_params = []
     seen_params = set()
     paths = OrderedDict()
@@ -35,20 +35,22 @@ def main():
     with open(input_file, 'r', encoding='utf-8', errors='ignore') as f:
         for line in f:
             url = line.strip()
-            if not is_valid_url(url) or '?' not in url:
+            if not is_valid_url(url):
                 continue
 
             parsed = urlparse(url)
-            params = parse_qsl(parsed.query, keep_blank_values=True)
             clean_url = clean_path(url)
 
             if clean_url not in paths:
                 paths[clean_url] = True
 
-            for key, _ in params:
-                if key and key not in seen_params:
-                    seen_params.add(key)
-                    all_params.append(key)
+            # Extract parameters if present
+            if parsed.query:
+                params = parse_qsl(parsed.query, keep_blank_values=True)
+                for key, _ in params:
+                    if key and key not in seen_params:
+                        seen_params.add(key)
+                        all_params.append(key)
 
     # Write files
     with open('all-params.txt', 'w', encoding='utf-8') as f:
@@ -102,7 +104,7 @@ def main():
             if chunk:
                 f.write('?' + '&'.join(f"{k}={pv}" for k in chunk) + '\n')
 
-    print(f"\n🎉 Done! Total unique parameters: {len(total_params)}")
+    print(f"\n🎉 Done! Total unique paths: {len(paths)} | Parameters: {len(total_params)}")
     print("Generated files:")
     print("   • all-params.txt")
     print("   • all-marge-uniq-params.txt")
