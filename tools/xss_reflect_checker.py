@@ -13,7 +13,7 @@ REQUEST_DELAY = 1.4
 
 XSS_CONTENT_TYPES = {'text/html', 'image/svg+xml', 'text/xml', 'application/xml', 'application/xhtml+xml'}
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1519135976151060481/2x59PAU2mFHUpEm7dLBiJIooVDN1mtag0XKfOItlY55uYDBS6pxg2zu0W-6cT4dwGfMz"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1519586108826980383/VWGSRj_pCfaE0tQcOsXpg4JbDZsZW-mj25aD0SjIxjQMkKQmPZDcmn9hOGRN-YTbyGnM"
 
 KEY_REGEX = re.compile(r'["\']?([a-zA-Z0-9_$]+)["\']?\s*:\s*[^,}]+', re.IGNORECASE)
 OBJECT_REGEX = re.compile(r'(?:window|data|context|config|payload|params|vars)\s*[=:]\s*\{[\s\S]*?\}', re.IGNORECASE)
